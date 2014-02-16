@@ -1,0 +1,9 @@
+<% @files.each do |file|%>
+    <ul>
+      <li><%=image_tag 'thumbnails/'+file.image %></li>
+      <li><%=file.length%> Kilometer</li>
+      <li><%=file.duration/60/60%> Stunden</li>
+      <li><%=file.city%></li>
+      <li><%=file.country%></li>
+    </ul>
+<% end %>

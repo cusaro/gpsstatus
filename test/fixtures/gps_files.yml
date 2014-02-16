@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  duration: 1.5
+  length: 1.5
+  average_speed: 1.5
+  start: 2014-02-16 11:38:33
+  end: 2014-02-16 11:38:33
+  image: MyString
+
+two:
+  duration: 1.5
+  length: 1.5
+  average_speed: 1.5
+  start: 2014-02-16 11:38:33
+  end: 2014-02-16 11:38:33
+  image: MyString

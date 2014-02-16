@@ -1,0 +1,2457 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0"
+ creator="BT747 V1.68.28" version="1.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>GPS-20091006</name><trk><name>#04075# 2009-10-06T10:56:05Z</name><trkseg>
+<trkpt lat="51.33789108" lon="12.37151811" >
+<ele>104.804</ele>
+<time>2009-10-06T10:56:05Z</time>
+<speed>2.4309</speed>
+<name>trkpt-2009-10-06T10:56:05Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:05<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.337891 N<br>LONGITUDE: 12.371518 E<br>HEIGHT: 104.804 m<br>SPEED: 8.751 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33782082" lon="12.37122279" >
+<ele>104.803</ele>
+<time>2009-10-06T10:56:07Z</time>
+<speed>2.5530</speed>
+<name>trkpt-2009-10-06T10:56:07Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:07<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.337821 N<br>LONGITUDE: 12.371223 E<br>HEIGHT: 104.803 m<br>SPEED: 9.191 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33777426" lon="12.37116111" >
+<ele>104.568</ele>
+<time>2009-10-06T10:56:08Z</time>
+<speed>2.2956</speed>
+<name>trkpt-2009-10-06T10:56:08Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:08<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.337774 N<br>LONGITUDE: 12.371161 E<br>HEIGHT: 104.568 m<br>SPEED: 8.264 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33864585" lon="12.37092679" >
+<ele>242.388</ele>
+<time>2009-10-06T10:56:09Z</time>
+<speed>2.5417</speed>
+<name>trkpt-2009-10-06T10:56:09Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:09<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338646 N<br>LONGITUDE: 12.370927 E<br>HEIGHT: 242.388 m<br>SPEED: 9.150 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33865656" lon="12.37090748" >
+<ele>242.337</ele>
+<time>2009-10-06T10:56:10Z</time>
+<speed>1.8006</speed>
+<name>trkpt-2009-10-06T10:56:10Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:10<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338657 N<br>LONGITUDE: 12.370907 E<br>HEIGHT: 242.337 m<br>SPEED: 6.482 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33865827" lon="12.37085677" >
+<ele>242.319</ele>
+<time>2009-10-06T10:56:11Z</time>
+<speed>1.6822</speed>
+<name>trkpt-2009-10-06T10:56:11Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:11<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338658 N<br>LONGITUDE: 12.370857 E<br>HEIGHT: 242.319 m<br>SPEED: 6.056 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33867984" lon="12.37084817" >
+<ele>242.215</ele>
+<time>2009-10-06T10:56:12Z</time>
+<speed>1.6925</speed>
+<name>trkpt-2009-10-06T10:56:12Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:12<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338680 N<br>LONGITUDE: 12.370848 E<br>HEIGHT: 242.215 m<br>SPEED: 6.093 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33870704" lon="12.37081251" >
+<ele>241.711</ele>
+<time>2009-10-06T10:56:14Z</time>
+<speed>2.4000</speed>
+<name>trkpt-2009-10-06T10:56:14Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:14<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338707 N<br>LONGITUDE: 12.370813 E<br>HEIGHT: 241.711 m<br>SPEED: 8.640 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33871648" lon="12.37074541" >
+<ele>240.492</ele>
+<time>2009-10-06T10:56:16Z</time>
+<speed>1.7228</speed>
+<name>trkpt-2009-10-06T10:56:16Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:16<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338716 N<br>LONGITUDE: 12.370745 E<br>HEIGHT: 240.492 m<br>SPEED: 6.202 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33866155" lon="12.37050817" >
+<ele>237.017</ele>
+<time>2009-10-06T10:56:20Z</time>
+<speed>1.5784</speed>
+<name>trkpt-2009-10-06T10:56:20Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:20<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338662 N<br>LONGITUDE: 12.370508 E<br>HEIGHT: 237.017 m<br>SPEED: 5.682 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33866254" lon="12.37048472" >
+<ele>236.726</ele>
+<time>2009-10-06T10:56:21Z</time>
+<speed>2.5303</speed>
+<name>trkpt-2009-10-06T10:56:21Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:21<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338663 N<br>LONGITUDE: 12.370485 E<br>HEIGHT: 236.726 m<br>SPEED: 9.109 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33866739" lon="12.37045497" >
+<ele>236.053</ele>
+<time>2009-10-06T10:56:22Z</time>
+<speed>1.5306</speed>
+<name>trkpt-2009-10-06T10:56:22Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:22<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338667 N<br>LONGITUDE: 12.370455 E<br>HEIGHT: 236.053 m<br>SPEED: 5.510 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33866668" lon="12.37043678" >
+<ele>235.238</ele>
+<time>2009-10-06T10:56:23Z</time>
+<speed>1.6141</speed>
+<name>trkpt-2009-10-06T10:56:23Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:23<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338667 N<br>LONGITUDE: 12.370437 E<br>HEIGHT: 235.238 m<br>SPEED: 5.811 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33866859" lon="12.37042135" >
+<ele>234.798</ele>
+<time>2009-10-06T10:56:24Z</time>
+<speed>1.4010</speed>
+<name>trkpt-2009-10-06T10:56:24Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:24<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338669 N<br>LONGITUDE: 12.370421 E<br>HEIGHT: 234.798 m<br>SPEED: 5.044 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33867855" lon="12.37041156" >
+<ele>234.473</ele>
+<time>2009-10-06T10:56:25Z</time>
+<speed>1.6014</speed>
+<name>trkpt-2009-10-06T10:56:25Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:25<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338679 N<br>LONGITUDE: 12.370412 E<br>HEIGHT: 234.473 m<br>SPEED: 5.765 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33868611" lon="12.37039890" >
+<ele>233.863</ele>
+<time>2009-10-06T10:56:26Z</time>
+<speed>1.9827</speed>
+<name>trkpt-2009-10-06T10:56:26Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:26<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338686 N<br>LONGITUDE: 12.370399 E<br>HEIGHT: 233.863 m<br>SPEED: 7.138 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33866094" lon="12.37025665" >
+<ele>230.756</ele>
+<time>2009-10-06T10:56:28Z</time>
+<speed>2.9494</speed>
+<name>trkpt-2009-10-06T10:56:28Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:28<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338661 N<br>LONGITUDE: 12.370257 E<br>HEIGHT: 230.756 m<br>SPEED: 10.618 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33856970" lon="12.37006355" >
+<ele>224.459</ele>
+<time>2009-10-06T10:56:29Z</time>
+<speed>3.4364</speed>
+<name>trkpt-2009-10-06T10:56:29Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:29<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338570 N<br>LONGITUDE: 12.370064 E<br>HEIGHT: 224.459 m<br>SPEED: 12.371 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33851273" lon="12.36992221" >
+<ele>220.581</ele>
+<time>2009-10-06T10:56:30Z</time>
+<speed>4.3601</speed>
+<name>trkpt-2009-10-06T10:56:30Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:30<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338513 N<br>LONGITUDE: 12.369922 E<br>HEIGHT: 220.581 m<br>SPEED: 15.696 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33846463" lon="12.36983442" >
+<ele>217.614</ele>
+<time>2009-10-06T10:56:31Z</time>
+<speed>4.6326</speed>
+<name>trkpt-2009-10-06T10:56:31Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:31<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338465 N<br>LONGITUDE: 12.369834 E<br>HEIGHT: 217.614 m<br>SPEED: 16.677 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33843175" lon="12.36972872" >
+<ele>215.830</ele>
+<time>2009-10-06T10:56:32Z</time>
+<speed>4.0517</speed>
+<name>trkpt-2009-10-06T10:56:32Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:32<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338432 N<br>LONGITUDE: 12.369729 E<br>HEIGHT: 215.830 m<br>SPEED: 14.586 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33839378" lon="12.36967048" >
+<ele>213.868</ele>
+<time>2009-10-06T10:56:33Z</time>
+<speed>4.9080</speed>
+<name>trkpt-2009-10-06T10:56:33Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:33<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338394 N<br>LONGITUDE: 12.369670 E<br>HEIGHT: 213.868 m<br>SPEED: 17.669 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33836739" lon="12.36958461" >
+<ele>212.730</ele>
+<time>2009-10-06T10:56:34Z</time>
+<speed>4.6073</speed>
+<name>trkpt-2009-10-06T10:56:34Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:34<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338367 N<br>LONGITUDE: 12.369585 E<br>HEIGHT: 212.730 m<br>SPEED: 16.586 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33834129" lon="12.36951010" >
+<ele>210.858</ele>
+<time>2009-10-06T10:56:35Z</time>
+<speed>4.8773</speed>
+<name>trkpt-2009-10-06T10:56:35Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:35<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338341 N<br>LONGITUDE: 12.369510 E<br>HEIGHT: 210.858 m<br>SPEED: 17.558 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33832266" lon="12.36942891" >
+<ele>209.613</ele>
+<time>2009-10-06T10:56:36Z</time>
+<speed>4.7144</speed>
+<name>trkpt-2009-10-06T10:56:36Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:36<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338323 N<br>LONGITUDE: 12.369429 E<br>HEIGHT: 209.613 m<br>SPEED: 16.972 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33832812" lon="12.36935930" >
+<ele>207.312</ele>
+<time>2009-10-06T10:56:37Z</time>
+<speed>4.5744</speed>
+<name>trkpt-2009-10-06T10:56:37Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:37<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338328 N<br>LONGITUDE: 12.369359 E<br>HEIGHT: 207.312 m<br>SPEED: 16.468 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33831675" lon="12.36929723" >
+<ele>205.898</ele>
+<time>2009-10-06T10:56:38Z</time>
+<speed>3.9687</speed>
+<name>trkpt-2009-10-06T10:56:38Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:38<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338317 N<br>LONGITUDE: 12.369297 E<br>HEIGHT: 205.898 m<br>SPEED: 14.287 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33830108" lon="12.36923751" >
+<ele>204.520</ele>
+<time>2009-10-06T10:56:39Z</time>
+<speed>4.4035</speed>
+<name>trkpt-2009-10-06T10:56:39Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:39<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338301 N<br>LONGITUDE: 12.369238 E<br>HEIGHT: 204.520 m<br>SPEED: 15.852 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33828324" lon="12.36917551" >
+<ele>203.475</ele>
+<time>2009-10-06T10:56:40Z</time>
+<speed>4.2831</speed>
+<name>trkpt-2009-10-06T10:56:40Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:40<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338283 N<br>LONGITUDE: 12.369176 E<br>HEIGHT: 203.475 m<br>SPEED: 15.419 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33826109" lon="12.36911700" >
+<ele>202.408</ele>
+<time>2009-10-06T10:56:41Z</time>
+<speed>4.6415</speed>
+<name>trkpt-2009-10-06T10:56:41Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:41<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338261 N<br>LONGITUDE: 12.369117 E<br>HEIGHT: 202.408 m<br>SPEED: 16.709 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33823703" lon="12.36906622" >
+<ele>201.211</ele>
+<time>2009-10-06T10:56:42Z</time>
+<speed>4.7856</speed>
+<name>trkpt-2009-10-06T10:56:42Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:42<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338237 N<br>LONGITUDE: 12.369066 E<br>HEIGHT: 201.211 m<br>SPEED: 17.228 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33821499" lon="12.36900637" >
+<ele>200.351</ele>
+<time>2009-10-06T10:56:43Z</time>
+<speed>5.2784</speed>
+<name>trkpt-2009-10-06T10:56:43Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:43<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338215 N<br>LONGITUDE: 12.369006 E<br>HEIGHT: 200.351 m<br>SPEED: 19.002 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33820815" lon="12.36893917" >
+<ele>198.951</ele>
+<time>2009-10-06T10:56:44Z</time>
+<speed>4.1021</speed>
+<name>trkpt-2009-10-06T10:56:44Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:44<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338208 N<br>LONGITUDE: 12.368939 E<br>HEIGHT: 198.951 m<br>SPEED: 14.768 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33820496" lon="12.36889151" >
+<ele>196.974</ele>
+<time>2009-10-06T10:56:45Z</time>
+<speed>4.6049</speed>
+<name>trkpt-2009-10-06T10:56:45Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:45<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338205 N<br>LONGITUDE: 12.368892 E<br>HEIGHT: 196.974 m<br>SPEED: 16.578 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33820366" lon="12.36882912" >
+<ele>195.623</ele>
+<time>2009-10-06T10:56:46Z</time>
+<speed>5.3630</speed>
+<name>trkpt-2009-10-06T10:56:46Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:46<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338204 N<br>LONGITUDE: 12.368829 E<br>HEIGHT: 195.623 m<br>SPEED: 19.307 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33821353" lon="12.36876471" >
+<ele>193.835</ele>
+<time>2009-10-06T10:56:47Z</time>
+<speed>4.9437</speed>
+<name>trkpt-2009-10-06T10:56:47Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:47<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338214 N<br>LONGITUDE: 12.368765 E<br>HEIGHT: 193.835 m<br>SPEED: 17.797 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33822619" lon="12.36870214" >
+<ele>192.088</ele>
+<time>2009-10-06T10:56:48Z</time>
+<speed>4.6039</speed>
+<name>trkpt-2009-10-06T10:56:48Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:48<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338226 N<br>LONGITUDE: 12.368702 E<br>HEIGHT: 192.088 m<br>SPEED: 16.574 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33823890" lon="12.36863384" >
+<ele>190.456</ele>
+<time>2009-10-06T10:56:49Z</time>
+<speed>4.1526</speed>
+<name>trkpt-2009-10-06T10:56:49Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:49<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338239 N<br>LONGITUDE: 12.368634 E<br>HEIGHT: 190.456 m<br>SPEED: 14.949 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33824349" lon="12.36857415" >
+<ele>189.301</ele>
+<time>2009-10-06T10:56:50Z</time>
+<speed>4.9442</speed>
+<name>trkpt-2009-10-06T10:56:50Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:50<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338243 N<br>LONGITUDE: 12.368574 E<br>HEIGHT: 189.301 m<br>SPEED: 17.799 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33824550" lon="12.36850577" >
+<ele>187.887</ele>
+<time>2009-10-06T10:56:51Z</time>
+<speed>5.6199</speed>
+<name>trkpt-2009-10-06T10:56:51Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:51<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338246 N<br>LONGITUDE: 12.368506 E<br>HEIGHT: 187.887 m<br>SPEED: 20.232 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33824806" lon="12.36842953" >
+<ele>187.229</ele>
+<time>2009-10-06T10:56:52Z</time>
+<speed>5.2979</speed>
+<name>trkpt-2009-10-06T10:56:52Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:52<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338248 N<br>LONGITUDE: 12.368430 E<br>HEIGHT: 187.229 m<br>SPEED: 19.072 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33823447" lon="12.36836008" >
+<ele>186.146</ele>
+<time>2009-10-06T10:56:53Z</time>
+<speed>6.8452</speed>
+<name>trkpt-2009-10-06T10:56:53Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:53<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338234 N<br>LONGITUDE: 12.368360 E<br>HEIGHT: 186.146 m<br>SPEED: 24.643 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33822459" lon="12.36828088" >
+<ele>185.857</ele>
+<time>2009-10-06T10:56:54Z</time>
+<speed>5.2833</speed>
+<name>trkpt-2009-10-06T10:56:54Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:54<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338225 N<br>LONGITUDE: 12.368281 E<br>HEIGHT: 185.857 m<br>SPEED: 19.020 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33821297" lon="12.36820828" >
+<ele>185.523</ele>
+<time>2009-10-06T10:56:55Z</time>
+<speed>5.7323</speed>
+<name>trkpt-2009-10-06T10:56:55Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:55<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338213 N<br>LONGITUDE: 12.368208 E<br>HEIGHT: 185.523 m<br>SPEED: 20.636 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33820208" lon="12.36813252" >
+<ele>185.351</ele>
+<time>2009-10-06T10:56:56Z</time>
+<speed>5.2433</speed>
+<name>trkpt-2009-10-06T10:56:56Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:56<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338202 N<br>LONGITUDE: 12.368133 E<br>HEIGHT: 185.351 m<br>SPEED: 18.876 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33820105" lon="12.36806999" >
+<ele>184.791</ele>
+<time>2009-10-06T10:56:57Z</time>
+<speed>4.8510</speed>
+<name>trkpt-2009-10-06T10:56:57Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:57<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338201 N<br>LONGITUDE: 12.368070 E<br>HEIGHT: 184.791 m<br>SPEED: 17.464 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33818985" lon="12.36793929" >
+<ele>184.605</ele>
+<time>2009-10-06T10:56:59Z</time>
+<speed>4.6497</speed>
+<name>trkpt-2009-10-06T10:56:59Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:56:59<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338190 N<br>LONGITUDE: 12.367939 E<br>HEIGHT: 184.605 m<br>SPEED: 16.739 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33818574" lon="12.36787922" >
+<ele>184.547</ele>
+<time>2009-10-06T10:57:00Z</time>
+<speed>3.8353</speed>
+<name>trkpt-2009-10-06T10:57:00Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:00<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338186 N<br>LONGITUDE: 12.367879 E<br>HEIGHT: 184.547 m<br>SPEED: 13.807 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33817686" lon="12.36782619" >
+<ele>184.439</ele>
+<time>2009-10-06T10:57:01Z</time>
+<speed>3.4453</speed>
+<name>trkpt-2009-10-06T10:57:01Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:01<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338177 N<br>LONGITUDE: 12.367826 E<br>HEIGHT: 184.439 m<br>SPEED: 12.403 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33817626" lon="12.36777952" >
+<ele>184.381</ele>
+<time>2009-10-06T10:57:02Z</time>
+<speed>3.2104</speed>
+<name>trkpt-2009-10-06T10:57:02Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:02<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338176 N<br>LONGITUDE: 12.367780 E<br>HEIGHT: 184.381 m<br>SPEED: 11.557 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33817739" lon="12.36773157" >
+<ele>184.217</ele>
+<time>2009-10-06T10:57:03Z</time>
+<speed>3.6449</speed>
+<name>trkpt-2009-10-06T10:57:03Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:03<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338177 N<br>LONGITUDE: 12.367732 E<br>HEIGHT: 184.217 m<br>SPEED: 13.122 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33817879" lon="12.36767945" >
+<ele>184.067</ele>
+<time>2009-10-06T10:57:04Z</time>
+<speed>3.6283</speed>
+<name>trkpt-2009-10-06T10:57:04Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:04<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338179 N<br>LONGITUDE: 12.367679 E<br>HEIGHT: 184.067 m<br>SPEED: 13.062 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33818630" lon="12.36763390" >
+<ele>183.930</ele>
+<time>2009-10-06T10:57:05Z</time>
+<speed>3.1006</speed>
+<name>trkpt-2009-10-06T10:57:05Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:05<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338186 N<br>LONGITUDE: 12.367634 E<br>HEIGHT: 183.930 m<br>SPEED: 11.162 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33824960" lon="12.36761216" >
+<ele>183.219</ele>
+<time>2009-10-06T10:57:06Z</time>
+<speed>4.1471</speed>
+<name>trkpt-2009-10-06T10:57:06Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:06<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338250 N<br>LONGITUDE: 12.367612 E<br>HEIGHT: 183.219 m<br>SPEED: 14.930 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33828500" lon="12.36757687" >
+<ele>182.984</ele>
+<time>2009-10-06T10:57:07Z</time>
+<speed>4.1726</speed>
+<name>trkpt-2009-10-06T10:57:07Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:07<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338285 N<br>LONGITUDE: 12.367577 E<br>HEIGHT: 182.984 m<br>SPEED: 15.021 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33832352" lon="12.36756367" >
+<ele>180.818</ele>
+<time>2009-10-06T10:57:08Z</time>
+<speed>4.1033</speed>
+<name>trkpt-2009-10-06T10:57:08Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:08<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338324 N<br>LONGITUDE: 12.367564 E<br>HEIGHT: 180.818 m<br>SPEED: 14.772 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33837729" lon="12.36753082" >
+<ele>179.938</ele>
+<time>2009-10-06T10:57:09Z</time>
+<speed>4.8358</speed>
+<name>trkpt-2009-10-06T10:57:09Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:09<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338377 N<br>LONGITUDE: 12.367531 E<br>HEIGHT: 179.938 m<br>SPEED: 17.409 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33840901" lon="12.36751810" >
+<ele>178.051</ele>
+<time>2009-10-06T10:57:10Z</time>
+<speed>4.7053</speed>
+<name>trkpt-2009-10-06T10:57:10Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:10<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338409 N<br>LONGITUDE: 12.367518 E<br>HEIGHT: 178.051 m<br>SPEED: 16.939 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33844881" lon="12.36749221" >
+<ele>176.016</ele>
+<time>2009-10-06T10:57:11Z</time>
+<speed>5.4088</speed>
+<name>trkpt-2009-10-06T10:57:11Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:11<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338449 N<br>LONGITUDE: 12.367492 E<br>HEIGHT: 176.016 m<br>SPEED: 19.472 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33849979" lon="12.36746451" >
+<ele>173.917</ele>
+<time>2009-10-06T10:57:12Z</time>
+<speed>5.6849</speed>
+<name>trkpt-2009-10-06T10:57:12Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:12<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338500 N<br>LONGITUDE: 12.367465 E<br>HEIGHT: 173.917 m<br>SPEED: 20.466 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33854280" lon="12.36740833" >
+<ele>171.949</ele>
+<time>2009-10-06T10:57:13Z</time>
+<speed>5.0512</speed>
+<name>trkpt-2009-10-06T10:57:13Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:13<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338543 N<br>LONGITUDE: 12.367408 E<br>HEIGHT: 171.949 m<br>SPEED: 18.184 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33857751" lon="12.36738835" >
+<ele>170.181</ele>
+<time>2009-10-06T10:57:14Z</time>
+<speed>5.9634</speed>
+<name>trkpt-2009-10-06T10:57:14Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:14<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338578 N<br>LONGITUDE: 12.367388 E<br>HEIGHT: 170.181 m<br>SPEED: 21.468 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33861431" lon="12.36735634" >
+<ele>168.288</ele>
+<time>2009-10-06T10:57:15Z</time>
+<speed>5.4053</speed>
+<name>trkpt-2009-10-06T10:57:15Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:15<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338614 N<br>LONGITUDE: 12.367356 E<br>HEIGHT: 168.288 m<br>SPEED: 19.459 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33864179" lon="12.36734820" >
+<ele>166.211</ele>
+<time>2009-10-06T10:57:16Z</time>
+<speed>5.3015</speed>
+<name>trkpt-2009-10-06T10:57:16Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:16<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338642 N<br>LONGITUDE: 12.367348 E<br>HEIGHT: 166.211 m<br>SPEED: 19.085 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33868219" lon="12.36732788" >
+<ele>164.339</ele>
+<time>2009-10-06T10:57:17Z</time>
+<speed>5.8393</speed>
+<name>trkpt-2009-10-06T10:57:17Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:17<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338682 N<br>LONGITUDE: 12.367328 E<br>HEIGHT: 164.339 m<br>SPEED: 21.022 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33872122" lon="12.36731009" >
+<ele>162.629</ele>
+<time>2009-10-06T10:57:18Z</time>
+<speed>5.7028</speed>
+<name>trkpt-2009-10-06T10:57:18Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:18<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338721 N<br>LONGITUDE: 12.367310 E<br>HEIGHT: 162.629 m<br>SPEED: 20.530 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33874355" lon="12.36727628" >
+<ele>162.035</ele>
+<time>2009-10-06T10:57:19Z</time>
+<speed>6.2790</speed>
+<name>trkpt-2009-10-06T10:57:19Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:19<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338744 N<br>LONGITUDE: 12.367276 E<br>HEIGHT: 162.035 m<br>SPEED: 22.604 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33877857" lon="12.36721494" >
+<ele>161.894</ele>
+<time>2009-10-06T10:57:20Z</time>
+<speed>6.3564</speed>
+<name>trkpt-2009-10-06T10:57:20Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:20<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338779 N<br>LONGITUDE: 12.367215 E<br>HEIGHT: 161.894 m<br>SPEED: 22.883 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33881938" lon="12.36717182" >
+<ele>160.370</ele>
+<time>2009-10-06T10:57:21Z</time>
+<speed>7.3039</speed>
+<name>trkpt-2009-10-06T10:57:21Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:21<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338819 N<br>LONGITUDE: 12.367172 E<br>HEIGHT: 160.370 m<br>SPEED: 26.294 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33886797" lon="12.36711506" >
+<ele>160.194</ele>
+<time>2009-10-06T10:57:22Z</time>
+<speed>7.5252</speed>
+<name>trkpt-2009-10-06T10:57:22Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:22<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338868 N<br>LONGITUDE: 12.367115 E<br>HEIGHT: 160.194 m<br>SPEED: 27.091 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33890694" lon="12.36703943" >
+<ele>158.927</ele>
+<time>2009-10-06T10:57:23Z</time>
+<speed>7.0499</speed>
+<name>trkpt-2009-10-06T10:57:23Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:23<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338907 N<br>LONGITUDE: 12.367039 E<br>HEIGHT: 158.927 m<br>SPEED: 25.380 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33894914" lon="12.36696887" >
+<ele>158.883</ele>
+<time>2009-10-06T10:57:24Z</time>
+<speed>6.3382</speed>
+<name>trkpt-2009-10-06T10:57:24Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:24<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338949 N<br>LONGITUDE: 12.366969 E<br>HEIGHT: 158.883 m<br>SPEED: 22.817 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33899144" lon="12.36690753" >
+<ele>158.878</ele>
+<time>2009-10-06T10:57:25Z</time>
+<speed>6.8035</speed>
+<name>trkpt-2009-10-06T10:57:25Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:25<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.338991 N<br>LONGITUDE: 12.366908 E<br>HEIGHT: 158.878 m<br>SPEED: 24.492 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33903078" lon="12.36685331" >
+<ele>158.826</ele>
+<time>2009-10-06T10:57:26Z</time>
+<speed>6.0565</speed>
+<name>trkpt-2009-10-06T10:57:26Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:26<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339031 N<br>LONGITUDE: 12.366853 E<br>HEIGHT: 158.826 m<br>SPEED: 21.804 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33905987" lon="12.36680744" >
+<ele>157.659</ele>
+<time>2009-10-06T10:57:27Z</time>
+<speed>6.0932</speed>
+<name>trkpt-2009-10-06T10:57:27Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:27<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339060 N<br>LONGITUDE: 12.366807 E<br>HEIGHT: 157.659 m<br>SPEED: 21.935 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33908756" lon="12.36675075" >
+<ele>156.516</ele>
+<time>2009-10-06T10:57:28Z</time>
+<speed>6.3661</speed>
+<name>trkpt-2009-10-06T10:57:28Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:28<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339088 N<br>LONGITUDE: 12.366751 E<br>HEIGHT: 156.516 m<br>SPEED: 22.918 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33911157" lon="12.36668854" >
+<ele>155.338</ele>
+<time>2009-10-06T10:57:29Z</time>
+<speed>6.4748</speed>
+<name>trkpt-2009-10-06T10:57:29Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:29<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339112 N<br>LONGITUDE: 12.366689 E<br>HEIGHT: 155.338 m<br>SPEED: 23.309 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33914310" lon="12.36663518" >
+<ele>154.239</ele>
+<time>2009-10-06T10:57:30Z</time>
+<speed>6.6726</speed>
+<name>trkpt-2009-10-06T10:57:30Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:30<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339143 N<br>LONGITUDE: 12.366635 E<br>HEIGHT: 154.239 m<br>SPEED: 24.021 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33917658" lon="12.36658461" >
+<ele>153.203</ele>
+<time>2009-10-06T10:57:31Z</time>
+<speed>6.4254</speed>
+<name>trkpt-2009-10-06T10:57:31Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:31<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339177 N<br>LONGITUDE: 12.366585 E<br>HEIGHT: 153.203 m<br>SPEED: 23.131 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33921442" lon="12.36653969" >
+<ele>152.184</ele>
+<time>2009-10-06T10:57:32Z</time>
+<speed>6.5832</speed>
+<name>trkpt-2009-10-06T10:57:32Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:32<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339214 N<br>LONGITUDE: 12.366540 E<br>HEIGHT: 152.184 m<br>SPEED: 23.700 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33924851" lon="12.36649766" >
+<ele>151.006</ele>
+<time>2009-10-06T10:57:33Z</time>
+<speed>6.1160</speed>
+<name>trkpt-2009-10-06T10:57:33Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:33<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339249 N<br>LONGITUDE: 12.366498 E<br>HEIGHT: 151.006 m<br>SPEED: 22.017 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33928174" lon="12.36646110" >
+<ele>150.010</ele>
+<time>2009-10-06T10:57:34Z</time>
+<speed>5.6106</speed>
+<name>trkpt-2009-10-06T10:57:34Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:34<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339282 N<br>LONGITUDE: 12.366461 E<br>HEIGHT: 150.010 m<br>SPEED: 20.198 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33930511" lon="12.36641849" >
+<ele>149.001</ele>
+<time>2009-10-06T10:57:35Z</time>
+<speed>5.0189</speed>
+<name>trkpt-2009-10-06T10:57:35Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:35<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339305 N<br>LONGITUDE: 12.366418 E<br>HEIGHT: 149.001 m<br>SPEED: 18.068 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33933680" lon="12.36638503" >
+<ele>147.939</ele>
+<time>2009-10-06T10:57:36Z</time>
+<speed>5.2542</speed>
+<name>trkpt-2009-10-06T10:57:36Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:36<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339337 N<br>LONGITUDE: 12.366385 E<br>HEIGHT: 147.939 m<br>SPEED: 18.915 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33936844" lon="12.36634605" >
+<ele>146.892</ele>
+<time>2009-10-06T10:57:37Z</time>
+<speed>5.9073</speed>
+<name>trkpt-2009-10-06T10:57:37Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:37<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339368 N<br>LONGITUDE: 12.366346 E<br>HEIGHT: 146.892 m<br>SPEED: 21.266 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33939295" lon="12.36627530" >
+<ele>146.808</ele>
+<time>2009-10-06T10:57:38Z</time>
+<speed>6.7253</speed>
+<name>trkpt-2009-10-06T10:57:38Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:38<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339393 N<br>LONGITUDE: 12.366275 E<br>HEIGHT: 146.808 m<br>SPEED: 24.211 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33939908" lon="12.36617276" >
+<ele>146.961</ele>
+<time>2009-10-06T10:57:39Z</time>
+<speed>6.1529</speed>
+<name>trkpt-2009-10-06T10:57:39Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:39<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339399 N<br>LONGITUDE: 12.366173 E<br>HEIGHT: 146.961 m<br>SPEED: 22.150 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33941949" lon="12.36611176" >
+<ele>146.027</ele>
+<time>2009-10-06T10:57:40Z</time>
+<speed>5.3660</speed>
+<name>trkpt-2009-10-06T10:57:40Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:40<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339419 N<br>LONGITUDE: 12.366112 E<br>HEIGHT: 146.027 m<br>SPEED: 19.317 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33944850" lon="12.36602451" >
+<ele>145.742</ele>
+<time>2009-10-06T10:57:41Z</time>
+<speed>5.7752</speed>
+<name>trkpt-2009-10-06T10:57:41Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:41<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339448 N<br>LONGITUDE: 12.366025 E<br>HEIGHT: 145.742 m<br>SPEED: 20.791 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33949280" lon="12.36587767" >
+<ele>145.521</ele>
+<time>2009-10-06T10:57:42Z</time>
+<speed>6.0196</speed>
+<name>trkpt-2009-10-06T10:57:42Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:42<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339493 N<br>LONGITUDE: 12.365878 E<br>HEIGHT: 145.521 m<br>SPEED: 21.670 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33952980" lon="12.36575568" >
+<ele>145.682</ele>
+<time>2009-10-06T10:57:43Z</time>
+<speed>5.9019</speed>
+<name>trkpt-2009-10-06T10:57:43Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:43<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339530 N<br>LONGITUDE: 12.365756 E<br>HEIGHT: 145.682 m<br>SPEED: 21.247 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33955484" lon="12.36567093" >
+<ele>145.341</ele>
+<time>2009-10-06T10:57:44Z</time>
+<speed>4.9946</speed>
+<name>trkpt-2009-10-06T10:57:44Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:44<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339555 N<br>LONGITUDE: 12.365671 E<br>HEIGHT: 145.341 m<br>SPEED: 17.981 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33958514" lon="12.36561790" >
+<ele>145.012</ele>
+<time>2009-10-06T10:57:45Z</time>
+<speed>5.0986</speed>
+<name>trkpt-2009-10-06T10:57:45Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:45<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339585 N<br>LONGITUDE: 12.365618 E<br>HEIGHT: 145.012 m<br>SPEED: 18.355 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33961552" lon="12.36558323" >
+<ele>144.539</ele>
+<time>2009-10-06T10:57:46Z</time>
+<speed>4.6774</speed>
+<name>trkpt-2009-10-06T10:57:46Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:46<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339616 N<br>LONGITUDE: 12.365583 E<br>HEIGHT: 144.539 m<br>SPEED: 16.839 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33964589" lon="12.36554121" >
+<ele>144.340</ele>
+<time>2009-10-06T10:57:47Z</time>
+<speed>4.3049</speed>
+<name>trkpt-2009-10-06T10:57:47Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:47<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339646 N<br>LONGITUDE: 12.365541 E<br>HEIGHT: 144.340 m<br>SPEED: 15.498 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33966828" lon="12.36548756" >
+<ele>143.912</ele>
+<time>2009-10-06T10:57:48Z</time>
+<speed>4.9562</speed>
+<name>trkpt-2009-10-06T10:57:48Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:48<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339668 N<br>LONGITUDE: 12.365488 E<br>HEIGHT: 143.912 m<br>SPEED: 17.842 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33969646" lon="12.36542131" >
+<ele>143.766</ele>
+<time>2009-10-06T10:57:49Z</time>
+<speed>6.1290</speed>
+<name>trkpt-2009-10-06T10:57:49Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:49<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339696 N<br>LONGITUDE: 12.365421 E<br>HEIGHT: 143.766 m<br>SPEED: 22.064 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33972747" lon="12.36535333" >
+<ele>143.165</ele>
+<time>2009-10-06T10:57:50Z</time>
+<speed>6.5508</speed>
+<name>trkpt-2009-10-06T10:57:50Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:50<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339727 N<br>LONGITUDE: 12.365353 E<br>HEIGHT: 143.165 m<br>SPEED: 23.583 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33975458" lon="12.36529309" >
+<ele>143.015</ele>
+<time>2009-10-06T10:57:51Z</time>
+<speed>6.6457</speed>
+<name>trkpt-2009-10-06T10:57:51Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:51<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339755 N<br>LONGITUDE: 12.365293 E<br>HEIGHT: 143.015 m<br>SPEED: 23.925 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33978610" lon="12.36521204" >
+<ele>142.687</ele>
+<time>2009-10-06T10:57:52Z</time>
+<speed>5.8200</speed>
+<name>trkpt-2009-10-06T10:57:52Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:52<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339786 N<br>LONGITUDE: 12.365212 E<br>HEIGHT: 142.687 m<br>SPEED: 20.952 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33981529" lon="12.36513788" >
+<ele>142.739</ele>
+<time>2009-10-06T10:57:53Z</time>
+<speed>5.6909</speed>
+<name>trkpt-2009-10-06T10:57:53Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:53<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339815 N<br>LONGITUDE: 12.365138 E<br>HEIGHT: 142.739 m<br>SPEED: 20.487 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33984222" lon="12.36506532" >
+<ele>142.884</ele>
+<time>2009-10-06T10:57:54Z</time>
+<speed>5.3811</speed>
+<name>trkpt-2009-10-06T10:57:54Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:54<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339842 N<br>LONGITUDE: 12.365065 E<br>HEIGHT: 142.884 m<br>SPEED: 19.372 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33986981" lon="12.36500538" >
+<ele>142.365</ele>
+<time>2009-10-06T10:57:55Z</time>
+<speed>5.6294</speed>
+<name>trkpt-2009-10-06T10:57:55Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:55<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339870 N<br>LONGITUDE: 12.365005 E<br>HEIGHT: 142.365 m<br>SPEED: 20.266 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33990581" lon="12.36495324" >
+<ele>141.989</ele>
+<time>2009-10-06T10:57:56Z</time>
+<speed>5.4295</speed>
+<name>trkpt-2009-10-06T10:57:56Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:56<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339906 N<br>LONGITUDE: 12.364953 E<br>HEIGHT: 141.989 m<br>SPEED: 19.546 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33994132" lon="12.36489586" >
+<ele>141.868</ele>
+<time>2009-10-06T10:57:57Z</time>
+<speed>6.0696</speed>
+<name>trkpt-2009-10-06T10:57:57Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:57<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339941 N<br>LONGITUDE: 12.364896 E<br>HEIGHT: 141.868 m<br>SPEED: 21.850 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.33997570" lon="12.36483741" >
+<ele>141.470</ele>
+<time>2009-10-06T10:57:58Z</time>
+<speed>5.6112</speed>
+<name>trkpt-2009-10-06T10:57:58Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:58<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.339976 N<br>LONGITUDE: 12.364837 E<br>HEIGHT: 141.470 m<br>SPEED: 20.200 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34000867" lon="12.36479619" >
+<ele>140.219</ele>
+<time>2009-10-06T10:57:59Z</time>
+<speed>5.4592</speed>
+<name>trkpt-2009-10-06T10:57:59Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:57:59<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340009 N<br>LONGITUDE: 12.364796 E<br>HEIGHT: 140.219 m<br>SPEED: 19.653 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34004593" lon="12.36475436" >
+<ele>139.050</ele>
+<time>2009-10-06T10:58:00Z</time>
+<speed>6.4298</speed>
+<name>trkpt-2009-10-06T10:58:00Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:00<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340046 N<br>LONGITUDE: 12.364754 E<br>HEIGHT: 139.050 m<br>SPEED: 23.147 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34008684" lon="12.36470600" >
+<ele>137.890</ele>
+<time>2009-10-06T10:58:01Z</time>
+<speed>6.9564</speed>
+<name>trkpt-2009-10-06T10:58:01Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:01<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340087 N<br>LONGITUDE: 12.364706 E<br>HEIGHT: 137.890 m<br>SPEED: 25.043 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34012106" lon="12.36465005" >
+<ele>136.638</ele>
+<time>2009-10-06T10:58:02Z</time>
+<speed>6.7848</speed>
+<name>trkpt-2009-10-06T10:58:02Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:02<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340121 N<br>LONGITUDE: 12.364650 E<br>HEIGHT: 136.638 m<br>SPEED: 24.425 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34016093" lon="12.36459330" >
+<ele>135.578</ele>
+<time>2009-10-06T10:58:03Z</time>
+<speed>6.8760</speed>
+<name>trkpt-2009-10-06T10:58:03Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:03<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340161 N<br>LONGITUDE: 12.364593 E<br>HEIGHT: 135.578 m<br>SPEED: 24.754 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34020163" lon="12.36453657" >
+<ele>134.477</ele>
+<time>2009-10-06T10:58:04Z</time>
+<speed>7.2652</speed>
+<name>trkpt-2009-10-06T10:58:04Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:04<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340202 N<br>LONGITUDE: 12.364537 E<br>HEIGHT: 134.477 m<br>SPEED: 26.155 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34024182" lon="12.36447179" >
+<ele>133.346</ele>
+<time>2009-10-06T10:58:05Z</time>
+<speed>7.5212</speed>
+<name>trkpt-2009-10-06T10:58:05Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:05<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340242 N<br>LONGITUDE: 12.364472 E<br>HEIGHT: 133.346 m<br>SPEED: 27.076 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34027783" lon="12.36440320" >
+<ele>132.223</ele>
+<time>2009-10-06T10:58:06Z</time>
+<speed>6.9839</speed>
+<name>trkpt-2009-10-06T10:58:06Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:06<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340278 N<br>LONGITUDE: 12.364403 E<br>HEIGHT: 132.223 m<br>SPEED: 25.142 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34031054" lon="12.36433485" >
+<ele>131.105</ele>
+<time>2009-10-06T10:58:07Z</time>
+<speed>7.2201</speed>
+<name>trkpt-2009-10-06T10:58:07Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:07<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340311 N<br>LONGITUDE: 12.364335 E<br>HEIGHT: 131.105 m<br>SPEED: 25.992 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34033333" lon="12.36426444" >
+<ele>130.018</ele>
+<time>2009-10-06T10:58:08Z</time>
+<speed>6.0532</speed>
+<name>trkpt-2009-10-06T10:58:08Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:08<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340333 N<br>LONGITUDE: 12.364264 E<br>HEIGHT: 130.018 m<br>SPEED: 21.792 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34035740" lon="12.36420123" >
+<ele>128.934</ele>
+<time>2009-10-06T10:58:09Z</time>
+<speed>6.2109</speed>
+<name>trkpt-2009-10-06T10:58:09Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:09<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340357 N<br>LONGITUDE: 12.364201 E<br>HEIGHT: 128.934 m<br>SPEED: 22.359 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34039282" lon="12.36415142" >
+<ele>127.834</ele>
+<time>2009-10-06T10:58:10Z</time>
+<speed>6.7388</speed>
+<name>trkpt-2009-10-06T10:58:10Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:10<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340393 N<br>LONGITUDE: 12.364151 E<br>HEIGHT: 127.834 m<br>SPEED: 24.260 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34042827" lon="12.36409600" >
+<ele>126.718</ele>
+<time>2009-10-06T10:58:11Z</time>
+<speed>6.3179</speed>
+<name>trkpt-2009-10-06T10:58:11Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:11<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340428 N<br>LONGITUDE: 12.364096 E<br>HEIGHT: 126.718 m<br>SPEED: 22.744 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34045567" lon="12.36403612" >
+<ele>125.603</ele>
+<time>2009-10-06T10:58:12Z</time>
+<speed>6.4864</speed>
+<name>trkpt-2009-10-06T10:58:12Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:12<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340456 N<br>LONGITUDE: 12.364036 E<br>HEIGHT: 125.603 m<br>SPEED: 23.351 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34049235" lon="12.36397517" >
+<ele>124.489</ele>
+<time>2009-10-06T10:58:13Z</time>
+<speed>6.5551</speed>
+<name>trkpt-2009-10-06T10:58:13Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:13<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340492 N<br>LONGITUDE: 12.363975 E<br>HEIGHT: 124.489 m<br>SPEED: 23.598 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34052571" lon="12.36391552" >
+<ele>123.431</ele>
+<time>2009-10-06T10:58:14Z</time>
+<speed>6.9355</speed>
+<name>trkpt-2009-10-06T10:58:14Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:14<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340526 N<br>LONGITUDE: 12.363916 E<br>HEIGHT: 123.431 m<br>SPEED: 24.968 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34056049" lon="12.36385632" >
+<ele>122.305</ele>
+<time>2009-10-06T10:58:15Z</time>
+<speed>6.8185</speed>
+<name>trkpt-2009-10-06T10:58:15Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:15<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340560 N<br>LONGITUDE: 12.363856 E<br>HEIGHT: 122.305 m<br>SPEED: 24.547 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34061567" lon="12.36380394" >
+<ele>122.354</ele>
+<time>2009-10-06T10:58:16Z</time>
+<speed>6.9591</speed>
+<name>trkpt-2009-10-06T10:58:16Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:16<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340616 N<br>LONGITUDE: 12.363804 E<br>HEIGHT: 122.354 m<br>SPEED: 25.053 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34065115" lon="12.36374823" >
+<ele>121.298</ele>
+<time>2009-10-06T10:58:17Z</time>
+<speed>7.1293</speed>
+<name>trkpt-2009-10-06T10:58:17Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:17<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340651 N<br>LONGITUDE: 12.363748 E<br>HEIGHT: 121.298 m<br>SPEED: 25.666 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34068394" lon="12.36369065" >
+<ele>120.247</ele>
+<time>2009-10-06T10:58:18Z</time>
+<speed>6.1970</speed>
+<name>trkpt-2009-10-06T10:58:18Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:18<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340684 N<br>LONGITUDE: 12.363691 E<br>HEIGHT: 120.247 m<br>SPEED: 22.309 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34071661" lon="12.36364856" >
+<ele>119.280</ele>
+<time>2009-10-06T10:58:19Z</time>
+<speed>6.0171</speed>
+<name>trkpt-2009-10-06T10:58:19Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:19<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340717 N<br>LONGITUDE: 12.363649 E<br>HEIGHT: 119.280 m<br>SPEED: 21.662 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34075252" lon="12.36359055" >
+<ele>119.110</ele>
+<time>2009-10-06T10:58:20Z</time>
+<speed>5.5857</speed>
+<name>trkpt-2009-10-06T10:58:20Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:20<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340753 N<br>LONGITUDE: 12.363591 E<br>HEIGHT: 119.110 m<br>SPEED: 20.109 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34078073" lon="12.36353309" >
+<ele>118.177</ele>
+<time>2009-10-06T10:58:21Z</time>
+<speed>5.6587</speed>
+<name>trkpt-2009-10-06T10:58:21Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:21<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340781 N<br>LONGITUDE: 12.363533 E<br>HEIGHT: 118.177 m<br>SPEED: 20.371 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34081039" lon="12.36345471" >
+<ele>118.188</ele>
+<time>2009-10-06T10:58:22Z</time>
+<speed>6.2515</speed>
+<name>trkpt-2009-10-06T10:58:22Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:22<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340810 N<br>LONGITUDE: 12.363455 E<br>HEIGHT: 118.188 m<br>SPEED: 22.505 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34084225" lon="12.36339271" >
+<ele>117.235</ele>
+<time>2009-10-06T10:58:23Z</time>
+<speed>5.9617</speed>
+<name>trkpt-2009-10-06T10:58:23Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:23<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340842 N<br>LONGITUDE: 12.363393 E<br>HEIGHT: 117.235 m<br>SPEED: 21.462 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34087196" lon="12.36334242" >
+<ele>116.253</ele>
+<time>2009-10-06T10:58:24Z</time>
+<speed>5.0229</speed>
+<name>trkpt-2009-10-06T10:58:24Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:24<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340872 N<br>LONGITUDE: 12.363342 E<br>HEIGHT: 116.253 m<br>SPEED: 18.082 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34092222" lon="12.36324005" >
+<ele>114.347</ele>
+<time>2009-10-06T10:58:26Z</time>
+<speed>4.9967</speed>
+<name>trkpt-2009-10-06T10:58:26Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:26<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340922 N<br>LONGITUDE: 12.363240 E<br>HEIGHT: 114.347 m<br>SPEED: 17.988 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34097737" lon="12.36319797" >
+<ele>114.283</ele>
+<time>2009-10-06T10:58:27Z</time>
+<speed>5.3761</speed>
+<name>trkpt-2009-10-06T10:58:27Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:27<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.340977 N<br>LONGITUDE: 12.363198 E<br>HEIGHT: 114.283 m<br>SPEED: 19.354 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34101323" lon="12.36314895" >
+<ele>113.375</ele>
+<time>2009-10-06T10:58:28Z</time>
+<speed>6.1575</speed>
+<name>trkpt-2009-10-06T10:58:28Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:28<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341013 N<br>LONGITUDE: 12.363149 E<br>HEIGHT: 113.375 m<br>SPEED: 22.167 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34104455" lon="12.36310599" >
+<ele>112.536</ele>
+<time>2009-10-06T10:58:29Z</time>
+<speed>5.6052</speed>
+<name>trkpt-2009-10-06T10:58:29Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:29<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341045 N<br>LONGITUDE: 12.363106 E<br>HEIGHT: 112.536 m<br>SPEED: 20.179 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34107224" lon="12.36304152" >
+<ele>111.619</ele>
+<time>2009-10-06T10:58:30Z</time>
+<speed>5.1628</speed>
+<name>trkpt-2009-10-06T10:58:30Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:30<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341072 N<br>LONGITUDE: 12.363042 E<br>HEIGHT: 111.619 m<br>SPEED: 18.586 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34109280" lon="12.36297484" >
+<ele>110.633</ele>
+<time>2009-10-06T10:58:31Z</time>
+<speed>4.6678</speed>
+<name>trkpt-2009-10-06T10:58:31Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:31<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341093 N<br>LONGITUDE: 12.362975 E<br>HEIGHT: 110.633 m<br>SPEED: 16.804 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34110612" lon="12.36286899" >
+<ele>110.346</ele>
+<time>2009-10-06T10:58:32Z</time>
+<speed>4.7709</speed>
+<name>trkpt-2009-10-06T10:58:32Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:32<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341106 N<br>LONGITUDE: 12.362869 E<br>HEIGHT: 110.346 m<br>SPEED: 17.175 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34113171" lon="12.36281127" >
+<ele>109.494</ele>
+<time>2009-10-06T10:58:33Z</time>
+<speed>5.3286</speed>
+<name>trkpt-2009-10-06T10:58:33Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:33<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341132 N<br>LONGITUDE: 12.362811 E<br>HEIGHT: 109.494 m<br>SPEED: 19.183 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34116251" lon="12.36276250" >
+<ele>108.482</ele>
+<time>2009-10-06T10:58:34Z</time>
+<speed>6.6784</speed>
+<name>trkpt-2009-10-06T10:58:34Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:34<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341163 N<br>LONGITUDE: 12.362762 E<br>HEIGHT: 108.482 m<br>SPEED: 24.042 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34119382" lon="12.36271763" >
+<ele>107.510</ele>
+<time>2009-10-06T10:58:35Z</time>
+<speed>5.7612</speed>
+<name>trkpt-2009-10-06T10:58:35Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:35<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341194 N<br>LONGITUDE: 12.362718 E<br>HEIGHT: 107.510 m<br>SPEED: 20.740 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34122019" lon="12.36264160" >
+<ele>106.555</ele>
+<time>2009-10-06T10:58:36Z</time>
+<speed>5.4467</speed>
+<name>trkpt-2009-10-06T10:58:36Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:36<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341220 N<br>LONGITUDE: 12.362642 E<br>HEIGHT: 106.555 m<br>SPEED: 19.608 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34125396" lon="12.36256554" >
+<ele>105.644</ele>
+<time>2009-10-06T10:58:37Z</time>
+<speed>5.5330</speed>
+<name>trkpt-2009-10-06T10:58:37Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:37<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341254 N<br>LONGITUDE: 12.362566 E<br>HEIGHT: 105.644 m<br>SPEED: 19.919 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34128482" lon="12.36251263" >
+<ele>104.565</ele>
+<time>2009-10-06T10:58:38Z</time>
+<speed>5.0176</speed>
+<name>trkpt-2009-10-06T10:58:38Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:38<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341285 N<br>LONGITUDE: 12.362513 E<br>HEIGHT: 104.565 m<br>SPEED: 18.063 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34131705" lon="12.36246874" >
+<ele>103.594</ele>
+<time>2009-10-06T10:58:39Z</time>
+<speed>5.5698</speed>
+<name>trkpt-2009-10-06T10:58:39Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:39<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341317 N<br>LONGITUDE: 12.362469 E<br>HEIGHT: 103.594 m<br>SPEED: 20.051 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34135675" lon="12.36238608" >
+<ele>102.771</ele>
+<time>2009-10-06T10:58:40Z</time>
+<speed>5.6358</speed>
+<name>trkpt-2009-10-06T10:58:40Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:40<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341357 N<br>LONGITUDE: 12.362386 E<br>HEIGHT: 102.771 m<br>SPEED: 20.289 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34139882" lon="12.36231030" >
+<ele>101.897</ele>
+<time>2009-10-06T10:58:41Z</time>
+<speed>6.0212</speed>
+<name>trkpt-2009-10-06T10:58:41Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:41<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341399 N<br>LONGITUDE: 12.362310 E<br>HEIGHT: 101.897 m<br>SPEED: 21.676 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34143553" lon="12.36225941" >
+<ele>100.964</ele>
+<time>2009-10-06T10:58:42Z</time>
+<speed>6.2066</speed>
+<name>trkpt-2009-10-06T10:58:42Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:42<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341436 N<br>LONGITUDE: 12.362259 E<br>HEIGHT: 100.964 m<br>SPEED: 22.344 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34147244" lon="12.36221212" >
+<ele>99.942</ele>
+<time>2009-10-06T10:58:43Z</time>
+<speed>5.7286</speed>
+<name>trkpt-2009-10-06T10:58:43Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:43<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341472 N<br>LONGITUDE: 12.362212 E<br>HEIGHT: 99.942 m<br>SPEED: 20.623 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34151724" lon="12.36216986" >
+<ele>99.156</ele>
+<time>2009-10-06T10:58:44Z</time>
+<speed>7.0331</speed>
+<name>trkpt-2009-10-06T10:58:44Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:44<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341517 N<br>LONGITUDE: 12.362170 E<br>HEIGHT: 99.156 m<br>SPEED: 25.319 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34155698" lon="12.36210435" >
+<ele>98.345</ele>
+<time>2009-10-06T10:58:45Z</time>
+<speed>6.7824</speed>
+<name>trkpt-2009-10-06T10:58:45Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:45<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341557 N<br>LONGITUDE: 12.362104 E<br>HEIGHT: 98.345 m<br>SPEED: 24.417 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34159747" lon="12.36203737" >
+<ele>97.457</ele>
+<time>2009-10-06T10:58:46Z</time>
+<speed>6.9575</speed>
+<name>trkpt-2009-10-06T10:58:46Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:46<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341597 N<br>LONGITUDE: 12.362037 E<br>HEIGHT: 97.457 m<br>SPEED: 25.047 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34164551" lon="12.36199010" >
+<ele>96.688</ele>
+<time>2009-10-06T10:58:47Z</time>
+<speed>5.8321</speed>
+<name>trkpt-2009-10-06T10:58:47Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:47<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341646 N<br>LONGITUDE: 12.361990 E<br>HEIGHT: 96.688 m<br>SPEED: 20.995 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34167987" lon="12.36191820" >
+<ele>95.823</ele>
+<time>2009-10-06T10:58:48Z</time>
+<speed>7.1331</speed>
+<name>trkpt-2009-10-06T10:58:48Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:48<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341680 N<br>LONGITUDE: 12.361918 E<br>HEIGHT: 95.823 m<br>SPEED: 25.679 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34171995" lon="12.36184034" >
+<ele>94.945</ele>
+<time>2009-10-06T10:58:49Z</time>
+<speed>7.1975</speed>
+<name>trkpt-2009-10-06T10:58:49Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:49<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341720 N<br>LONGITUDE: 12.361840 E<br>HEIGHT: 94.945 m<br>SPEED: 25.911 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34175484" lon="12.36176844" >
+<ele>94.073</ele>
+<time>2009-10-06T10:58:50Z</time>
+<speed>6.8679</speed>
+<name>trkpt-2009-10-06T10:58:50Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:50<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341755 N<br>LONGITUDE: 12.361768 E<br>HEIGHT: 94.073 m<br>SPEED: 24.724 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34179656" lon="12.36168830" >
+<ele>93.255</ele>
+<time>2009-10-06T10:58:51Z</time>
+<speed>6.2475</speed>
+<name>trkpt-2009-10-06T10:58:51Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:51<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341797 N<br>LONGITUDE: 12.361688 E<br>HEIGHT: 93.255 m<br>SPEED: 22.491 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34184486" lon="12.36157441" >
+<ele>92.422</ele>
+<time>2009-10-06T10:58:52Z</time>
+<speed>6.4872</speed>
+<name>trkpt-2009-10-06T10:58:52Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:52<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341845 N<br>LONGITUDE: 12.361574 E<br>HEIGHT: 92.422 m<br>SPEED: 23.354 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34188042" lon="12.36150906" >
+<ele>91.537</ele>
+<time>2009-10-06T10:58:53Z</time>
+<speed>6.3023</speed>
+<name>trkpt-2009-10-06T10:58:53Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:53<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341880 N<br>LONGITUDE: 12.361509 E<br>HEIGHT: 91.537 m<br>SPEED: 22.688 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34190857" lon="12.36145235" >
+<ele>90.647</ele>
+<time>2009-10-06T10:58:54Z</time>
+<speed>6.5885</speed>
+<name>trkpt-2009-10-06T10:58:54Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:54<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341909 N<br>LONGITUDE: 12.361452 E<br>HEIGHT: 90.647 m<br>SPEED: 23.719 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34193964" lon="12.36137323" >
+<ele>89.764</ele>
+<time>2009-10-06T10:58:55Z</time>
+<speed>6.2691</speed>
+<name>trkpt-2009-10-06T10:58:55Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:55<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341940 N<br>LONGITUDE: 12.361373 E<br>HEIGHT: 89.764 m<br>SPEED: 22.569 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34196202" lon="12.36131998" >
+<ele>88.814</ele>
+<time>2009-10-06T10:58:56Z</time>
+<speed>5.5816</speed>
+<name>trkpt-2009-10-06T10:58:56Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:56<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341962 N<br>LONGITUDE: 12.361320 E<br>HEIGHT: 88.814 m<br>SPEED: 20.094 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34198654" lon="12.36125255" >
+<ele>87.920</ele>
+<time>2009-10-06T10:58:57Z</time>
+<speed>5.2651</speed>
+<name>trkpt-2009-10-06T10:58:57Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:57<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.341987 N<br>LONGITUDE: 12.361253 E<br>HEIGHT: 87.920 m<br>SPEED: 18.954 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34200934" lon="12.36117381" >
+<ele>87.140</ele>
+<time>2009-10-06T10:58:58Z</time>
+<speed>5.5572</speed>
+<name>trkpt-2009-10-06T10:58:58Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:58<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342009 N<br>LONGITUDE: 12.361174 E<br>HEIGHT: 87.140 m<br>SPEED: 20.006 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34203337" lon="12.36107859" >
+<ele>86.424</ele>
+<time>2009-10-06T10:58:59Z</time>
+<speed>5.3605</speed>
+<name>trkpt-2009-10-06T10:58:59Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:58:59<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342033 N<br>LONGITUDE: 12.361079 E<br>HEIGHT: 86.424 m<br>SPEED: 19.298 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34205779" lon="12.36101507" >
+<ele>86.756</ele>
+<time>2009-10-06T10:59:00Z</time>
+<speed>4.5760</speed>
+<name>trkpt-2009-10-06T10:59:00Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:00<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342058 N<br>LONGITUDE: 12.361015 E<br>HEIGHT: 86.756 m<br>SPEED: 16.473 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34208997" lon="12.36092761" >
+<ele>86.926</ele>
+<time>2009-10-06T10:59:01Z</time>
+<speed>3.6642</speed>
+<name>trkpt-2009-10-06T10:59:01Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:01<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342090 N<br>LONGITUDE: 12.360928 E<br>HEIGHT: 86.926 m<br>SPEED: 13.191 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34210656" lon="12.36088824" >
+<ele>87.018</ele>
+<time>2009-10-06T10:59:02Z</time>
+<speed>1.5929</speed>
+<name>trkpt-2009-10-06T10:59:02Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:02<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342107 N<br>LONGITUDE: 12.360888 E<br>HEIGHT: 87.018 m<br>SPEED: 5.735 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34210708" lon="12.36077762" >
+<ele>87.293</ele>
+<time>2009-10-06T10:59:12Z</time>
+<speed>0.1371</speed>
+<name>trkpt-2009-10-06T10:59:12Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:12<br>RCR: T <b>(TimeStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342107 N<br>LONGITUDE: 12.360778 E<br>HEIGHT: 87.293 m<br>SPEED: 0.494 km/h]]></cmt>
+<sym>TimeStamp</sym>
+<type>T</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34209287" lon="12.36079253" >
+<ele>88.210</ele>
+<time>2009-10-06T10:59:22Z</time>
+<speed>0.2307</speed>
+<name>trkpt-2009-10-06T10:59:22Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:22<br>RCR: T <b>(TimeStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342093 N<br>LONGITUDE: 12.360793 E<br>HEIGHT: 88.210 m<br>SPEED: 0.831 km/h]]></cmt>
+<sym>TimeStamp</sym>
+<type>T</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34209948" lon="12.36072430" >
+<ele>91.366</ele>
+<time>2009-10-06T10:59:32Z</time>
+<speed>0.2020</speed>
+<name>trkpt-2009-10-06T10:59:32Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:32<br>RCR: T <b>(TimeStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342099 N<br>LONGITUDE: 12.360724 E<br>HEIGHT: 91.366 m<br>SPEED: 0.727 km/h]]></cmt>
+<sym>TimeStamp</sym>
+<type>T</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34211192" lon="12.36069721" >
+<ele>91.488</ele>
+<time>2009-10-06T10:59:35Z</time>
+<speed>1.4127</speed>
+<name>trkpt-2009-10-06T10:59:35Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:35<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342112 N<br>LONGITUDE: 12.360697 E<br>HEIGHT: 91.488 m<br>SPEED: 5.086 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34212340" lon="12.36067687" >
+<ele>91.825</ele>
+<time>2009-10-06T10:59:36Z</time>
+<speed>2.3241</speed>
+<name>trkpt-2009-10-06T10:59:36Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:36<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342123 N<br>LONGITUDE: 12.360677 E<br>HEIGHT: 91.825 m<br>SPEED: 8.367 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34214397" lon="12.36065036" >
+<ele>92.335</ele>
+<time>2009-10-06T10:59:37Z</time>
+<speed>3.0577</speed>
+<name>trkpt-2009-10-06T10:59:37Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:37<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342144 N<br>LONGITUDE: 12.360650 E<br>HEIGHT: 92.335 m<br>SPEED: 11.008 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34217040" lon="12.36062781" >
+<ele>92.813</ele>
+<time>2009-10-06T10:59:38Z</time>
+<speed>3.7001</speed>
+<name>trkpt-2009-10-06T10:59:38Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:38<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342170 N<br>LONGITUDE: 12.360628 E<br>HEIGHT: 92.813 m<br>SPEED: 13.320 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34219415" lon="12.36060091" >
+<ele>93.577</ele>
+<time>2009-10-06T10:59:39Z</time>
+<speed>3.3143</speed>
+<name>trkpt-2009-10-06T10:59:39Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:39<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342194 N<br>LONGITUDE: 12.360601 E<br>HEIGHT: 93.577 m<br>SPEED: 11.932 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34221281" lon="12.36056161" >
+<ele>94.513</ele>
+<time>2009-10-06T10:59:40Z</time>
+<speed>3.5874</speed>
+<name>trkpt-2009-10-06T10:59:40Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:40<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342213 N<br>LONGITUDE: 12.360562 E<br>HEIGHT: 94.513 m<br>SPEED: 12.915 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34223458" lon="12.36049743" >
+<ele>95.769</ele>
+<time>2009-10-06T10:59:41Z</time>
+<speed>3.9542</speed>
+<name>trkpt-2009-10-06T10:59:41Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:41<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342235 N<br>LONGITUDE: 12.360497 E<br>HEIGHT: 95.769 m<br>SPEED: 14.235 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34225943" lon="12.36041346" >
+<ele>97.052</ele>
+<time>2009-10-06T10:59:42Z</time>
+<speed>4.7015</speed>
+<name>trkpt-2009-10-06T10:59:42Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:42<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342259 N<br>LONGITUDE: 12.360413 E<br>HEIGHT: 97.052 m<br>SPEED: 16.925 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34228685" lon="12.36032884" >
+<ele>98.276</ele>
+<time>2009-10-06T10:59:43Z</time>
+<speed>4.8068</speed>
+<name>trkpt-2009-10-06T10:59:43Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:43<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342287 N<br>LONGITUDE: 12.360329 E<br>HEIGHT: 98.276 m<br>SPEED: 17.304 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34231655" lon="12.36025889" >
+<ele>99.150</ele>
+<time>2009-10-06T10:59:44Z</time>
+<speed>4.7037</speed>
+<name>trkpt-2009-10-06T10:59:44Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:44<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342317 N<br>LONGITUDE: 12.360259 E<br>HEIGHT: 99.150 m<br>SPEED: 16.933 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34234573" lon="12.36019272" >
+<ele>99.847</ele>
+<time>2009-10-06T10:59:45Z</time>
+<speed>3.7148</speed>
+<name>trkpt-2009-10-06T10:59:45Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:45<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342346 N<br>LONGITUDE: 12.360193 E<br>HEIGHT: 99.847 m<br>SPEED: 13.373 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34237365" lon="12.36012653" >
+<ele>100.622</ele>
+<time>2009-10-06T10:59:46Z</time>
+<speed>4.4946</speed>
+<name>trkpt-2009-10-06T10:59:46Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:46<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342374 N<br>LONGITUDE: 12.360127 E<br>HEIGHT: 100.622 m<br>SPEED: 16.181 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34240092" lon="12.36004954" >
+<ele>101.162</ele>
+<time>2009-10-06T10:59:47Z</time>
+<speed>3.8218</speed>
+<name>trkpt-2009-10-06T10:59:47Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:47<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342401 N<br>LONGITUDE: 12.360050 E<br>HEIGHT: 101.162 m<br>SPEED: 13.759 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34242412" lon="12.36000270" >
+<ele>101.675</ele>
+<time>2009-10-06T10:59:48Z</time>
+<speed>3.6393</speed>
+<name>trkpt-2009-10-06T10:59:48Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:48<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342424 N<br>LONGITUDE: 12.360003 E<br>HEIGHT: 101.675 m<br>SPEED: 13.101 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34244799" lon="12.35995404" >
+<ele>102.354</ele>
+<time>2009-10-06T10:59:49Z</time>
+<speed>4.6895</speed>
+<name>trkpt-2009-10-06T10:59:49Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:49<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342448 N<br>LONGITUDE: 12.359954 E<br>HEIGHT: 102.354 m<br>SPEED: 16.882 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34247627" lon="12.35989386" >
+<ele>103.025</ele>
+<time>2009-10-06T10:59:50Z</time>
+<speed>4.3070</speed>
+<name>trkpt-2009-10-06T10:59:50Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:50<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342476 N<br>LONGITUDE: 12.359894 E<br>HEIGHT: 103.025 m<br>SPEED: 15.505 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34250634" lon="12.35981763" >
+<ele>103.963</ele>
+<time>2009-10-06T10:59:51Z</time>
+<speed>4.3225</speed>
+<name>trkpt-2009-10-06T10:59:51Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:51<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342506 N<br>LONGITUDE: 12.359818 E<br>HEIGHT: 103.963 m<br>SPEED: 15.561 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34253074" lon="12.35977023" >
+<ele>104.428</ele>
+<time>2009-10-06T10:59:52Z</time>
+<speed>3.9904</speed>
+<name>trkpt-2009-10-06T10:59:52Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:52<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342531 N<br>LONGITUDE: 12.359770 E<br>HEIGHT: 104.428 m<br>SPEED: 14.365 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34255496" lon="12.35971099" >
+<ele>104.979</ele>
+<time>2009-10-06T10:59:53Z</time>
+<speed>3.5810</speed>
+<name>trkpt-2009-10-06T10:59:53Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:53<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342555 N<br>LONGITUDE: 12.359711 E<br>HEIGHT: 104.979 m<br>SPEED: 12.892 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34258338" lon="12.35965406" >
+<ele>105.547</ele>
+<time>2009-10-06T10:59:54Z</time>
+<speed>4.5971</speed>
+<name>trkpt-2009-10-06T10:59:54Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:54<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342583 N<br>LONGITUDE: 12.359654 E<br>HEIGHT: 105.547 m<br>SPEED: 16.550 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34261377" lon="12.35960913" >
+<ele>106.046</ele>
+<time>2009-10-06T10:59:55Z</time>
+<speed>4.4478</speed>
+<name>trkpt-2009-10-06T10:59:55Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:55<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342614 N<br>LONGITUDE: 12.359609 E<br>HEIGHT: 106.046 m<br>SPEED: 16.012 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34264554" lon="12.35956679" >
+<ele>106.283</ele>
+<time>2009-10-06T10:59:56Z</time>
+<speed>4.9263</speed>
+<name>trkpt-2009-10-06T10:59:56Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:56<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342646 N<br>LONGITUDE: 12.359567 E<br>HEIGHT: 106.283 m<br>SPEED: 17.735 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34268304" lon="12.35950751" >
+<ele>106.809</ele>
+<time>2009-10-06T10:59:57Z</time>
+<speed>5.5852</speed>
+<name>trkpt-2009-10-06T10:59:57Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:57<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342683 N<br>LONGITUDE: 12.359508 E<br>HEIGHT: 106.809 m<br>SPEED: 20.107 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34272343" lon="12.35944200" >
+<ele>107.230</ele>
+<time>2009-10-06T10:59:58Z</time>
+<speed>5.8038</speed>
+<name>trkpt-2009-10-06T10:59:58Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:58<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342723 N<br>LONGITUDE: 12.359442 E<br>HEIGHT: 107.230 m<br>SPEED: 20.894 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34276072" lon="12.35939553" >
+<ele>106.915</ele>
+<time>2009-10-06T10:59:59Z</time>
+<speed>5.1253</speed>
+<name>trkpt-2009-10-06T10:59:59Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 10:59:59<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342761 N<br>LONGITUDE: 12.359396 E<br>HEIGHT: 106.915 m<br>SPEED: 18.451 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34279099" lon="12.35935692" >
+<ele>106.619</ele>
+<time>2009-10-06T11:00:00Z</time>
+<speed>4.3544</speed>
+<name>trkpt-2009-10-06T11:00:00Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:00<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342791 N<br>LONGITUDE: 12.359357 E<br>HEIGHT: 106.619 m<br>SPEED: 15.676 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34282996" lon="12.35930378" >
+<ele>106.487</ele>
+<time>2009-10-06T11:00:01Z</time>
+<speed>4.8019</speed>
+<name>trkpt-2009-10-06T11:00:01Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:01<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342830 N<br>LONGITUDE: 12.359304 E<br>HEIGHT: 106.487 m<br>SPEED: 17.287 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34285982" lon="12.35927413" >
+<ele>106.307</ele>
+<time>2009-10-06T11:00:02Z</time>
+<speed>4.3287</speed>
+<name>trkpt-2009-10-06T11:00:02Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:02<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342860 N<br>LONGITUDE: 12.359274 E<br>HEIGHT: 106.307 m<br>SPEED: 15.583 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34289589" lon="12.35923567" >
+<ele>106.740</ele>
+<time>2009-10-06T11:00:03Z</time>
+<speed>3.8814</speed>
+<name>trkpt-2009-10-06T11:00:03Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:03<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342896 N<br>LONGITUDE: 12.359236 E<br>HEIGHT: 106.740 m<br>SPEED: 13.973 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34294339" lon="12.35918165" >
+<ele>107.061</ele>
+<time>2009-10-06T11:00:04Z</time>
+<speed>4.3802</speed>
+<name>trkpt-2009-10-06T11:00:04Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:04<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342943 N<br>LONGITUDE: 12.359182 E<br>HEIGHT: 107.061 m<br>SPEED: 15.769 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34298205" lon="12.35916731" >
+<ele>106.651</ele>
+<time>2009-10-06T11:00:05Z</time>
+<speed>4.2991</speed>
+<name>trkpt-2009-10-06T11:00:05Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:05<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.342982 N<br>LONGITUDE: 12.359167 E<br>HEIGHT: 106.651 m<br>SPEED: 15.477 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34302172" lon="12.35915762" >
+<ele>106.136</ele>
+<time>2009-10-06T11:00:06Z</time>
+<speed>4.9619</speed>
+<name>trkpt-2009-10-06T11:00:06Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:06<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343022 N<br>LONGITUDE: 12.359158 E<br>HEIGHT: 106.136 m<br>SPEED: 17.863 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34307679" lon="12.35914074" >
+<ele>106.119</ele>
+<time>2009-10-06T11:00:07Z</time>
+<speed>5.3147</speed>
+<name>trkpt-2009-10-06T11:00:07Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:07<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343077 N<br>LONGITUDE: 12.359141 E<br>HEIGHT: 106.119 m<br>SPEED: 19.133 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34312079" lon="12.35909207" >
+<ele>106.233</ele>
+<time>2009-10-06T11:00:08Z</time>
+<speed>5.3794</speed>
+<name>trkpt-2009-10-06T11:00:08Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:08<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343121 N<br>LONGITUDE: 12.359092 E<br>HEIGHT: 106.233 m<br>SPEED: 19.366 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34315572" lon="12.35905226" >
+<ele>106.731</ele>
+<time>2009-10-06T11:00:09Z</time>
+<speed>5.6235</speed>
+<name>trkpt-2009-10-06T11:00:09Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:09<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343156 N<br>LONGITUDE: 12.359052 E<br>HEIGHT: 106.731 m<br>SPEED: 20.244 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34318235" lon="12.35898612" >
+<ele>107.273</ele>
+<time>2009-10-06T11:00:10Z</time>
+<speed>4.6991</speed>
+<name>trkpt-2009-10-06T11:00:10Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:10<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343182 N<br>LONGITUDE: 12.358986 E<br>HEIGHT: 107.273 m<br>SPEED: 16.917 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34318912" lon="12.35893887" >
+<ele>107.074</ele>
+<time>2009-10-06T11:00:11Z</time>
+<speed>4.8318</speed>
+<name>trkpt-2009-10-06T11:00:11Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:11<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343189 N<br>LONGITUDE: 12.358939 E<br>HEIGHT: 107.074 m<br>SPEED: 17.395 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34318639" lon="12.35888210" >
+<ele>106.790</ele>
+<time>2009-10-06T11:00:12Z</time>
+<speed>4.0850</speed>
+<name>trkpt-2009-10-06T11:00:12Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:12<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343186 N<br>LONGITUDE: 12.358882 E<br>HEIGHT: 106.790 m<br>SPEED: 14.706 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34318220" lon="12.35884187" >
+<ele>106.513</ele>
+<time>2009-10-06T11:00:13Z</time>
+<speed>3.4439</speed>
+<name>trkpt-2009-10-06T11:00:13Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:13<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343182 N<br>LONGITUDE: 12.358842 E<br>HEIGHT: 106.513 m<br>SPEED: 12.398 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34318176" lon="12.35881780" >
+<ele>106.264</ele>
+<time>2009-10-06T11:00:14Z</time>
+<speed>2.9290</speed>
+<name>trkpt-2009-10-06T11:00:14Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:14<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343182 N<br>LONGITUDE: 12.358818 E<br>HEIGHT: 106.264 m<br>SPEED: 10.545 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34319056" lon="12.35879537" >
+<ele>105.998</ele>
+<time>2009-10-06T11:00:15Z</time>
+<speed>3.1260</speed>
+<name>trkpt-2009-10-06T11:00:15Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:15<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343191 N<br>LONGITUDE: 12.358795 E<br>HEIGHT: 105.998 m<br>SPEED: 11.254 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34320897" lon="12.35885209" >
+<ele>105.630</ele>
+<time>2009-10-06T11:00:16Z</time>
+<speed>3.5631</speed>
+<name>trkpt-2009-10-06T11:00:16Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:16<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343209 N<br>LONGITUDE: 12.358852 E<br>HEIGHT: 105.630 m<br>SPEED: 12.827 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34328603" lon="12.35880175" >
+<ele>105.138</ele>
+<time>2009-10-06T11:00:18Z</time>
+<speed>5.2343</speed>
+<name>trkpt-2009-10-06T11:00:18Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:18<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343286 N<br>LONGITUDE: 12.358802 E<br>HEIGHT: 105.138 m<br>SPEED: 18.843 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34332554" lon="12.35879493" >
+<ele>104.956</ele>
+<time>2009-10-06T11:00:19Z</time>
+<speed>4.8317</speed>
+<name>trkpt-2009-10-06T11:00:19Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:19<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343326 N<br>LONGITUDE: 12.358795 E<br>HEIGHT: 104.956 m<br>SPEED: 17.394 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34339530" lon="12.35880464" >
+<ele>104.673</ele>
+<time>2009-10-06T11:00:20Z</time>
+<speed>4.4442</speed>
+<name>trkpt-2009-10-06T11:00:20Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:20<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343395 N<br>LONGITUDE: 12.358805 E<br>HEIGHT: 104.673 m<br>SPEED: 15.999 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34350036" lon="12.35880256" >
+<ele>104.353</ele>
+<time>2009-10-06T11:00:21Z</time>
+<speed>4.7793</speed>
+<name>trkpt-2009-10-06T11:00:21Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:21<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343500 N<br>LONGITUDE: 12.358803 E<br>HEIGHT: 104.353 m<br>SPEED: 17.206 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34354026" lon="12.35880126" >
+<ele>103.884</ele>
+<time>2009-10-06T11:00:22Z</time>
+<speed>4.2748</speed>
+<name>trkpt-2009-10-06T11:00:22Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:22<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343540 N<br>LONGITUDE: 12.358801 E<br>HEIGHT: 103.884 m<br>SPEED: 15.389 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34358232" lon="12.35875287" >
+<ele>103.639</ele>
+<time>2009-10-06T11:00:23Z</time>
+<speed>3.8721</speed>
+<name>trkpt-2009-10-06T11:00:23Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:23<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343582 N<br>LONGITUDE: 12.358753 E<br>HEIGHT: 103.639 m<br>SPEED: 13.939 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34362681" lon="12.35873282" >
+<ele>103.295</ele>
+<time>2009-10-06T11:00:24Z</time>
+<speed>3.9153</speed>
+<name>trkpt-2009-10-06T11:00:24Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:24<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343627 N<br>LONGITUDE: 12.358733 E<br>HEIGHT: 103.295 m<br>SPEED: 14.095 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34366110" lon="12.35872772" >
+<ele>102.968</ele>
+<time>2009-10-06T11:00:25Z</time>
+<speed>3.6563</speed>
+<name>trkpt-2009-10-06T11:00:25Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:25<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343661 N<br>LONGITUDE: 12.358728 E<br>HEIGHT: 102.968 m<br>SPEED: 13.163 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34369370" lon="12.35873917" >
+<ele>102.598</ele>
+<time>2009-10-06T11:00:26Z</time>
+<speed>3.6500</speed>
+<name>trkpt-2009-10-06T11:00:26Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:26<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343694 N<br>LONGITUDE: 12.358739 E<br>HEIGHT: 102.598 m<br>SPEED: 13.140 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34373490" lon="12.35873947" >
+<ele>102.290</ele>
+<time>2009-10-06T11:00:27Z</time>
+<speed>4.3001</speed>
+<name>trkpt-2009-10-06T11:00:27Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:27<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343735 N<br>LONGITUDE: 12.358739 E<br>HEIGHT: 102.290 m<br>SPEED: 15.480 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34379093" lon="12.35872417" >
+<ele>101.985</ele>
+<time>2009-10-06T11:00:28Z</time>
+<speed>4.4010</speed>
+<name>trkpt-2009-10-06T11:00:28Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:28<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343791 N<br>LONGITUDE: 12.358724 E<br>HEIGHT: 101.985 m<br>SPEED: 15.844 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34383017" lon="12.35872477" >
+<ele>101.660</ele>
+<time>2009-10-06T11:00:29Z</time>
+<speed>4.3399</speed>
+<name>trkpt-2009-10-06T11:00:29Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:29<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343830 N<br>LONGITUDE: 12.358725 E<br>HEIGHT: 101.660 m<br>SPEED: 15.624 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34388696" lon="12.35875453" >
+<ele>101.223</ele>
+<time>2009-10-06T11:00:30Z</time>
+<speed>4.0313</speed>
+<name>trkpt-2009-10-06T11:00:30Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:30<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343887 N<br>LONGITUDE: 12.358755 E<br>HEIGHT: 101.223 m<br>SPEED: 14.513 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34387059" lon="12.35869217" >
+<ele>101.088</ele>
+<time>2009-10-06T11:00:31Z</time>
+<speed>3.5950</speed>
+<name>trkpt-2009-10-06T11:00:31Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:31<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343871 N<br>LONGITUDE: 12.358692 E<br>HEIGHT: 101.088 m<br>SPEED: 12.942 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34388638" lon="12.35865186" >
+<ele>101.997</ele>
+<time>2009-10-06T11:00:32Z</time>
+<speed>3.9664</speed>
+<name>trkpt-2009-10-06T11:00:32Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:32<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343886 N<br>LONGITUDE: 12.358652 E<br>HEIGHT: 101.997 m<br>SPEED: 14.279 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34386488" lon="12.35860392" >
+<ele>101.762</ele>
+<time>2009-10-06T11:00:33Z</time>
+<speed>3.3420</speed>
+<name>trkpt-2009-10-06T11:00:33Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:33<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343865 N<br>LONGITUDE: 12.358604 E<br>HEIGHT: 101.762 m<br>SPEED: 12.031 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34385135" lon="12.35854624" >
+<ele>101.510</ele>
+<time>2009-10-06T11:00:34Z</time>
+<speed>3.6033</speed>
+<name>trkpt-2009-10-06T11:00:34Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:34<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343851 N<br>LONGITUDE: 12.358546 E<br>HEIGHT: 101.510 m<br>SPEED: 12.972 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34382199" lon="12.35850245" >
+<ele>101.214</ele>
+<time>2009-10-06T11:00:35Z</time>
+<speed>4.2582</speed>
+<name>trkpt-2009-10-06T11:00:35Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:35<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343822 N<br>LONGITUDE: 12.358502 E<br>HEIGHT: 101.214 m<br>SPEED: 15.330 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34379682" lon="12.35844643" >
+<ele>100.840</ele>
+<time>2009-10-06T11:00:36Z</time>
+<speed>4.8982</speed>
+<name>trkpt-2009-10-06T11:00:36Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:36<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343797 N<br>LONGITUDE: 12.358446 E<br>HEIGHT: 100.840 m<br>SPEED: 17.634 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34378851" lon="12.35836140" >
+<ele>100.236</ele>
+<time>2009-10-06T11:00:37Z</time>
+<speed>5.0273</speed>
+<name>trkpt-2009-10-06T11:00:37Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:37<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343789 N<br>LONGITUDE: 12.358361 E<br>HEIGHT: 100.236 m<br>SPEED: 18.098 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34377303" lon="12.35829140" >
+<ele>99.839</ele>
+<time>2009-10-06T11:00:38Z</time>
+<speed>4.9842</speed>
+<name>trkpt-2009-10-06T11:00:38Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:38<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343773 N<br>LONGITUDE: 12.358291 E<br>HEIGHT: 99.839 m<br>SPEED: 17.943 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34376508" lon="12.35822745" >
+<ele>99.413</ele>
+<time>2009-10-06T11:00:39Z</time>
+<speed>4.6802</speed>
+<name>trkpt-2009-10-06T11:00:39Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:39<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343765 N<br>LONGITUDE: 12.358227 E<br>HEIGHT: 99.413 m<br>SPEED: 16.849 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34375446" lon="12.35817434" >
+<ele>98.984</ele>
+<time>2009-10-06T11:00:40Z</time>
+<speed>4.4165</speed>
+<name>trkpt-2009-10-06T11:00:40Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:40<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343754 N<br>LONGITUDE: 12.358174 E<br>HEIGHT: 98.984 m<br>SPEED: 15.899 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34373987" lon="12.35812634" >
+<ele>98.531</ele>
+<time>2009-10-06T11:00:41Z</time>
+<speed>4.1679</speed>
+<name>trkpt-2009-10-06T11:00:41Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:41<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343740 N<br>LONGITUDE: 12.358126 E<br>HEIGHT: 98.531 m<br>SPEED: 15.004 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34370761" lon="12.35807381" >
+<ele>97.818</ele>
+<time>2009-10-06T11:00:42Z</time>
+<speed>4.5537</speed>
+<name>trkpt-2009-10-06T11:00:42Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:42<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343708 N<br>LONGITUDE: 12.358074 E<br>HEIGHT: 97.818 m<br>SPEED: 16.393 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34368190" lon="12.35800940" >
+<ele>97.302</ele>
+<time>2009-10-06T11:00:43Z</time>
+<speed>4.7384</speed>
+<name>trkpt-2009-10-06T11:00:43Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:43<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343682 N<br>LONGITUDE: 12.358009 E<br>HEIGHT: 97.302 m<br>SPEED: 17.058 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34366763" lon="12.35793968" >
+<ele>96.866</ele>
+<time>2009-10-06T11:00:44Z</time>
+<speed>4.0330</speed>
+<name>trkpt-2009-10-06T11:00:44Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:44<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343668 N<br>LONGITUDE: 12.357940 E<br>HEIGHT: 96.866 m<br>SPEED: 14.519 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34364106" lon="12.35788686" >
+<ele>96.235</ele>
+<time>2009-10-06T11:00:45Z</time>
+<speed>4.1816</speed>
+<name>trkpt-2009-10-06T11:00:45Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:45<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343641 N<br>LONGITUDE: 12.357887 E<br>HEIGHT: 96.235 m<br>SPEED: 15.054 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34363212" lon="12.35780297" >
+<ele>95.940</ele>
+<time>2009-10-06T11:00:46Z</time>
+<speed>3.6540</speed>
+<name>trkpt-2009-10-06T11:00:46Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:46<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343632 N<br>LONGITUDE: 12.357803 E<br>HEIGHT: 95.940 m<br>SPEED: 13.154 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34362108" lon="12.35773620" >
+<ele>95.589</ele>
+<time>2009-10-06T11:00:47Z</time>
+<speed>2.7305</speed>
+<name>trkpt-2009-10-06T11:00:47Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:47<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343621 N<br>LONGITUDE: 12.357736 E<br>HEIGHT: 95.589 m<br>SPEED: 9.830 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="51.34360667" lon="12.35770152" >
+<ele>95.174</ele>
+<time>2009-10-06T11:00:48Z</time>
+<speed>2.3283</speed>
+<name>trkpt-2009-10-06T11:00:48Z</name>
+<cmt><![CDATA[TIME: 06-OCT-09 11:00:48<br>RCR: S <b>(SpeedStamp)</b><br>VALID: SPS<br>LATITUDE: 51.343607 N<br>LONGITUDE: 12.357702 E<br>HEIGHT: 95.174 m<br>SPEED: 8.382 km/h]]></cmt>
+<sym>SpeedStamp</sym>
+<type>S</type>
+<fix>3d</fix>
+</trkpt>
+</trkseg></trk>
+</gpx>
