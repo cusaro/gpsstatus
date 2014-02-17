@@ -33,13 +33,26 @@ gem 'gpx2png'
 
 gem 'geocoder'
 
-gem 'pry'
-
 gem 'awesome_print'
 
 gem 'paperclip'
 
 gem 'leaflet-rails'
+
+group :development do
+  gem 'capistrano', '~> 3.0.1'
+  # rails specific capistrano funcitons
+  gem 'capistrano-rails', '~> 1.1.0'
+  # integrate bundler with capistrano
+  gem 'capistrano-bundler'
+  # if you are using RBENV
+  gem 'capistrano-rbenv', "~> 2.0"
+end
+
+group :development, :test do
+  gem 'pry'
+  gem 'pry-remote'
+end
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
