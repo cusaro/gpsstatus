@@ -38,13 +38,19 @@ class ImporterController < ApplicationController
 
   def geocode(gpx)
 
-    location = Geocoder.search([gpx.points.first.latitude,gpx.points.first.longitude])
+    if gpx.points.first.nil?
+      {city: nil,country: nil}
+    else
+      location = Geocoder.search([gpx.points.first.latitude,gpx.points.first.longitude])
 
-    @location = {
-      city: location[0].data["address_components"][3]["long_name"],
-      #country: location[0].data["address_components"][6]["long_name"],
-      country: 'none',
-    }
+      {
+          city: location[0].data["address_components"][3]["long_name"],
+          #country: location[0].data["address_components"][6]["long_name"],
+          country: 'none',
+      }
+    end
+
+
 
   end
 
