@@ -2,7 +2,7 @@ Gpsstore::Application.routes.draw do
 
   root 'gpsfile#index'
 
-  get 'gpsfile/:id' => 'gpsfile#show'
+  get 'gpsfile/:id' => 'gpsfile#show', as: 'gpsfile_show'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

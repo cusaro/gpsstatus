@@ -1,15 +1,15 @@
 <% @files.each do |file|%>
     <div class="media">
-      <a class="pull-left thumbnail" href="#">
-        <%=image_tag file.image.url(:thumb) %>
-      </a>
+
+      <%= link_to (image_tag file.image.url(:thumb)), gpsfile_show_path(file), html_options = {:class => 'pull-left thumbnail'}  %>
+
       <div class="media-body">
-        <h4 class="media-heading"><%=file.name%></h4>
+        <h4 class="media-heading"><%= link_to file.name, gpsfile_show_path(file) %></h4>
         <span class="label label-default"><%=l file.start, format: :short%></span>
         <span class="label label-default"><%=file.city %></span>
         <ul class="list-unstyled">
-          <li>Distanz: <%=file.length.round(2)%> Kilometer</li>
-          <li>Dauer: <%=Time.at(file.duration).utc.strftime("%H:%M")%> h</li>
+          <li>Distanz: <%=kilometer(file.length)%></li>
+          <li>Dauer: <%=duration(file.duration)%> h</li>
         </ul>
       </div>
     </div>

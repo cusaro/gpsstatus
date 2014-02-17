@@ -6,6 +6,17 @@
           :zoom => 10
           })
   %>
+  <%=map_gpx('/gpxfiles/import/'+@file.filename) %>
 
-  <%=map_gpx('/gpxfiles/import/radtour-20100402.gpx') %>
+  <ul class="list-unstyled">
+    <li>Dauer: <%=duration(@file.duration)%></li>
+    <li>Distanz: <%=kilometer(@file.length)%></li>
+    <li>Geschwindigkeit: <%=average(@file.average_speed)%></li>
+    <li>Start: <%=l @file.start, format: :short%></li>
+    <li>Ende: <%=l @file.end, format: :short%></li>
+    <li>Dauer: <%=l @file.created_at, format: :short%></li>
+    <li>Stadt: <%=@file.city%></li>
+    <li>Dateiname: <%=@file.filename%></li>
+  </ul>
+
 </div>

@@ -4,9 +4,6 @@ require 'geocoder'
 class ImporterController < ApplicationController
   include Paperclip::Glue
 
-  IMPORT_DIR = 'public/gpxfiles/import/'
-  THUMBNAIL_DIR = 'app/assets/images/thumbnails'
-
   def index
     filelist.each {|file| import(file)}
   end
@@ -60,6 +57,7 @@ class ImporterController < ApplicationController
   end
 
   def imagename
+    File.basename(file)
     if @filename != nil
       @filename
     else

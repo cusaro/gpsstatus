@@ -10,4 +10,16 @@ module GpsfileHelper
 
     output.join("\n").html_safe
   end
+
+  def kilometer(value)
+    value.round(2).to_s+' Km'
+  end
+
+  def duration(value)
+    Time.at(value).utc.strftime("%H:%M")+' h'
+  end
+
+  def average(value)
+    value.round(2).to_s+' Km/h'
+  end
 end
