@@ -1,7 +1,7 @@
 require 'gpx'
 require 'gpx2png'
 require 'geocoder'
-class TestController < ApplicationController
+class ImporterController < ApplicationController
 
   IMPORT_DIR = 'app/assets/gpxfiles/import/'
   THUMBNAIL_DIR = 'app/assets/images/thumbnails'
