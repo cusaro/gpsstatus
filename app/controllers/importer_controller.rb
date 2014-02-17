@@ -41,7 +41,8 @@ class ImporterController < ApplicationController
 
     @location = {
       city: location[0].data["address_components"][3]["long_name"],
-      country: location[0].data["address_components"][6]["long_name"],
+      #country: location[0].data["address_components"][6]["long_name"],
+      country: 'none',
     }
 
   end
