@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140216163223) do
+ActiveRecord::Schema.define(version: 20140217093812) do
 
   create_table "gps_files", force: true do |t|
     t.float    "duration"
@@ -24,6 +24,10 @@ ActiveRecord::Schema.define(version: 20140216163223) do
     t.datetime "updated_at"
     t.string   "city"
     t.string   "country"
+    t.string   "image_file_name"
+    t.string   "image_content_type"
+    t.integer  "image_file_size"
+    t.datetime "image_updated_at"
   end
 
 end

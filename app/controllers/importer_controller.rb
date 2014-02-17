@@ -2,6 +2,7 @@ require 'gpx'
 require 'gpx2png'
 require 'geocoder'
 class ImporterController < ApplicationController
+  include Paperclip::Glue
 
   IMPORT_DIR = 'app/assets/gpxfiles/import/'
   THUMBNAIL_DIR = 'app/assets/images/thumbnails'
@@ -17,17 +18,21 @@ class ImporterController < ApplicationController
 
     gpx = GPX::GPX.new File.join(file)
 
+    createimage
+    image = File.open(imagedir)
+
     file = GpsFile.create(
         duration: gpx.duration,
         length: gpx.length,
         average_speed: gpx.average_speed,
         start: gpx.start_date,
         end: gpx.end_date,
-        #TODO use paperclip
-        image: createimage,
+        image: image,
         country: location(gpx)[:country],
         city: location(gpx)[:city],
     )
+
+    image.close
 
   end
 
@@ -72,7 +77,6 @@ class ImporterController < ApplicationController
     e.fixed_size(800, 800)
     e.save(imagedir)
 
-    imagename
   end
 
   def transliterate(str)
