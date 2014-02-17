@@ -16,5 +16,5 @@
 /tmp
 /.idea/*
 
-/app/assets/images/thumbnails
-/public/system/gps_files/images
+/app/assets/images/thumbnails/*
+/public/system/gps_files/images/*
