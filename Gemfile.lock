@@ -173,6 +173,7 @@ DEPENDENCIES
   capistrano-rails (~> 1.1.0)
   capistrano-rbenv (~> 2.0)
   coffee-rails (~> 4.0.0)
+  execjs
   geocoder
   gpx2png
   gpx_track

@@ -39,6 +39,9 @@ gem 'paperclip'
 
 gem 'leaflet-rails'
 
+#avoid Could not find a JavaScript runtime. See https://github.com/sstephenson/execjs for a list of available runtimes
+gem 'execjs'
+
 group :development do
   gem 'capistrano', '~> 3.0.1'
   # rails specific capistrano funcitons
