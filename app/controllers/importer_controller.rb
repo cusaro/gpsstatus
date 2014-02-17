@@ -22,6 +22,7 @@ class ImporterController < ApplicationController
     image = File.open(imagedir)
 
     file = GpsFile.create(
+        name: File.basename(file),
         duration: gpx.duration,
         length: gpx.length,
         average_speed: gpx.average_speed,
