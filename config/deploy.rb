@@ -14,6 +14,9 @@ set :rbenv_map_bins, %w{rake gem bundle ruby rails}
 # how many old releases do we want to keep
 set :keep_releases, 5
 
+set :linked_dirs, %w{bin log tmp/pids tmp/cache tmp/sockets vendor/bundle public/system}
+
+
 # what specs should be run before deployment is allowed to# continue, see lib/capistrano/tasks/run_tests.cap
 set :tests, ["spec"]
 
@@ -34,6 +37,8 @@ namespace :deploy do
 
   # compile assets locally then rsync
   #after 'deploy:symlink:shared', 'deploy:compile_assets_locally'
+
+
 
   after :finishing, 'deploy:cleanup'
 end
