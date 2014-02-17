@@ -5,11 +5,11 @@
       </a>
       <div class="media-body">
         <h4 class="media-heading"><%=file.name%></h4>
-        <ul>
-          <li><%=file.length%> Kilometer</li>
-          <li><%=file.duration/60/60%> Stunden</li>
-          <li><%=file.city%></li>
-          <li><%=file.country%></li>
+        <span class="label label-default"><%=file.start.strftime("%d.%m.%Y")%></span>
+        <span class="label label-default"><%=file.city %></span>
+        <ul class="list-unstyled">
+          <li>Distanz: <%=file.length.round(2)%> Kilometer</li>
+          <li>Dauer: <%=Time.at(file.duration).utc.strftime("%H:%M")%> h</li>
         </ul>
       </div>
     </div>
