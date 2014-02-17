@@ -7,7 +7,6 @@ class CreateGpsFiles < ActiveRecord::Migration
       t.datetime :start
       t.datetime :end
       t.string :image
-      t.string :name
 
       t.timestamps
     end
