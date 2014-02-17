@@ -8,6 +8,7 @@ class ImporterController < ApplicationController
 
   def import
     filelist.each do |file|
+      next if GpsFile.exists?(filename: File.basename(file))
       @file = file
 
       gpx = GPX::GPX.new File.join(file)
