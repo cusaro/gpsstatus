@@ -1,9 +1,16 @@
 <% @files.each do |file|%>
-    <ul>
-      <li><%=image_tag file.image.url(:big) %></li>
-      <li><%=file.length%> Kilometer</li>
-      <li><%=file.duration/60/60%> Stunden</li>
-      <li><%=file.city%></li>
-      <li><%=file.country%></li>
-    </ul>
+    <div class="media">
+      <a class="pull-left thumbnail" href="#">
+        <%=image_tag file.image.url(:thumb) %>
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading"><%=file.name%></h4>
+        <ul>
+          <li><%=file.length%> Kilometer</li>
+          <li><%=file.duration/60/60%> Stunden</li>
+          <li><%=file.city%></li>
+          <li><%=file.country%></li>
+        </ul>
+      </div>
+    </div>
 <% end %>
