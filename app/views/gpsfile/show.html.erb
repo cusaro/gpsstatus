@@ -1,0 +1,17 @@
+<div class="page-header">
+  <h1><%=@file.name%> <small><%=l @file.start, format: :long%></small></h1>
+
+  <%= map(:center => {
+          :latlng => [51.52238797921441, -0.08366235665359283],
+          :zoom => 10
+          })
+  %>
+
+
+  <script>
+      var gpx = 'http://gpsstatus.dev/test.gpx'; // URL to your GPX file or the GPX itself
+      new L.GPX(gpx, {async: true}).on('loaded', function(e) {
+          map.fitBounds(e.target.getBounds());
+      }).addTo(map);
+  </script>
+</div>
