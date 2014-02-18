@@ -33,7 +33,7 @@ class ImporterController < ApplicationController
   end
 
   def filelist
-    Dir[IMPORT_DIR+"*"]
+    Dir[IMPORT_DIR+"*.gpx"].reject{ |f| f[%r{.*_[0-9][0-9][0-9].gpx}]  }
   end
 
   def geocode(gpx)
