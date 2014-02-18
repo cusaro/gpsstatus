@@ -44,11 +44,14 @@ class ImporterController < ApplicationController
     location = Geocoder.search([gpx.points.first.latitude,gpx.points.first.longitude])[0].data["address_components"]
     city = location.select { |e| e['types'][0] == "locality"}
     country = location.select { |e| e['types'][0] == "country"}
-
-    {
-        city: city[0]["long_name"] ,
-        country: country[0]["long_name"],
-    }
+    begin
+      {
+          city: city[0]["long_name"] ,
+          country: country[0]["long_name"],
+      }
+    rescue
+      {city: nil,country: nil}
+    end
 
   end
 
