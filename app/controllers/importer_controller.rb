@@ -8,10 +8,11 @@ class ImporterController < ApplicationController
 
   def import
     filelist.each do |file|
-      next if GpsFile.exists?(filename: File.basename(file))
       @file = file
 
-      gpx = GPX::GPX.new File.join(file)
+      next if file_exists?
+
+      gpx = GPX::GPX.new file
       location = geocode(gpx)
       image = File.open(create_image)
 
@@ -38,19 +39,16 @@ class ImporterController < ApplicationController
 
   def geocode(gpx)
 
-    if gpx.points.first.nil?
-      {city: nil,country: nil}
-    else
-      location = Geocoder.search([gpx.points.first.latitude,gpx.points.first.longitude])
+    return {city: nil,country: nil} if gpx.points.first.nil?
 
-      {
-          city: location[0].data["address_components"][3]["long_name"],
-          #country: location[0].data["address_components"][6]["long_name"],
-          country: 'none',
-      }
-    end
+    location = Geocoder.search([gpx.points.first.latitude,gpx.points.first.longitude])[0].data["address_components"]
+    city = location.select { |e| e['types'][0] == "locality"}
+    country = location.select { |e| e['types'][0] == "country"}
 
-
+    {
+        city: city[0]["long_name"] ,
+        country: country[0]["long_name"],
+    }
 
   end
 
@@ -60,6 +58,10 @@ class ImporterController < ApplicationController
 
   def image_path
     File.join(THUMBNAIL_DIR,imagename)
+  end
+
+  def file_exists?
+    GpsFile.exists?(filename: File.basename(@file))
   end
 
   def create_image
