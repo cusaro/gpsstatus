@@ -1,7 +1,8 @@
 require 'gpx'
 require 'gpx2png'
 require 'geocoder'
-class ImporterController < ApplicationController
+
+class Importer
   IMPORT_DIR = 'public/system/gpxfiles/import/'
   GPX_DIR = IMPORT_DIR
   THUMBNAIL_DIR = 'app/assets/images/thumbnails'
@@ -38,21 +39,22 @@ class ImporterController < ApplicationController
   end
 
   def geocode(gpx)
-
-    return {city: nil,country: nil} if gpx.points.first.nil?
-
-    location = Geocoder.search([gpx.points.first.latitude,gpx.points.first.longitude])[0].data["address_components"]
-    city = location.select { |e| e['types'][0] == "locality"}
-    country = location.select { |e| e['types'][0] == "country"}
     begin
+      location = Geocoder.search([gpx.points.first.latitude,gpx.points.first.longitude])[0].data["address_components"]
+
       {
-          city: city[0]["long_name"] ,
-          country: country[0]["long_name"],
+          city: get_geocoder_param(location,"locality"),
+          country: get_geocoder_param(location,"country"),
       }
     rescue
       {city: nil,country: nil}
     end
 
+  end
+
+  def get_geocoder_param(location,type)
+    e = location.select { |e| e['types'][0] == type}
+    e[0]["long_name"]
   end
 
   def imagename
@@ -82,3 +84,7 @@ class ImporterController < ApplicationController
   end
 
 end
+
+
+#rails runner -e prodction "Importer.import"
+#rake import
