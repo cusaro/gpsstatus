@@ -16,7 +16,9 @@ set :keep_releases, 5
 
 set :linked_dirs, %w{bin log tmp/pids tmp/cache tmp/sockets vendor/bundle public/system}
 
-set :bundle_binstubs, false
+set :bundle_flags, ''
+set :bundle_binstubs, nil
+set :bundle_dir, nil
 
 # what specs should be run before deployment is allowed to# continue, see lib/capistrano/tasks/run_tests.cap
 set :tests, ["spec"]
