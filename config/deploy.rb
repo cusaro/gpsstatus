@@ -14,7 +14,7 @@ set :rbenv_map_bins, %w{rake gem bundle ruby rails}
 # how many old releases do we want to keep
 set :keep_releases, 5
 
-set :linked_dirs, %w{bin log tmp/pids tmp/cache tmp/sockets vendor/bundle public/system}
+set :linked_dirs, %w{log tmp/pids tmp/cache tmp/sockets vendor/bundle public/system}
 
 set :bundle_flags, ''
 set :bundle_binstubs, nil
