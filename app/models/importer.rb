@@ -1,6 +1,4 @@
 require 'gpx'
-require 'gpx2png'
-require 'geocoder'
 
 class Importer
   IMPORT_DIR = 'public/system/gpxfiles/import/'
@@ -14,7 +12,6 @@ class Importer
       next if file_exists?
 
       gpx = GPX::GPX.new file
-      location = geocode(gpx)
       image = File.open(create_image)
 
       GpsFile.create(
@@ -25,8 +22,8 @@ class Importer
           start: gpx.start_date,
           end: gpx.end_date,
           image: image,
-          country: location[:country],
-          city: location[:city],
+          country: geocode(gpx).country,
+          city: geocode(gpx).city,
           filename: File.basename(file),
       )
 
@@ -38,27 +35,12 @@ class Importer
     Dir[IMPORT_DIR+"*.gpx"].reject{ |f| f[%r{.*_[0-9][0-9][0-9].gpx}]  }
   end
 
-  def geocode(gpx)
-    begin
-      location = Geocoder.search([gpx.points.first.latitude,gpx.points.first.longitude])[0].data["address_components"]
-
-      {
-          city: get_geocoder_param(location,"locality"),
-          country: get_geocoder_param(location,"country"),
-      }
-    rescue
-      {city: nil,country: nil}
-    end
-
-  end
-
-  def get_geocoder_param(location,type)
-    e = location.select { |e| e['types'][0] == type}
-    e[0]["long_name"]
   end
 
   def imagename
     File.basename(@file, '.gpx')+'.jpg'
+  def geocode(gpx)
+    Geocode.new(gpx)
   end
 
   def image_path
