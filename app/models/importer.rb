@@ -7,9 +7,8 @@ class Importer
 
   def import
     filelist.each do |file|
-      @file = file
 
-      next if file_exists?
+      next if file_exists?(file)
 
       gpx = GPX::GPX.new file
 
@@ -33,6 +32,8 @@ class Importer
     Dir[IMPORT_DIR+"*.gpx"].reject{ |f| f[%r{.*_[0-9][0-9][0-9].gpx}]  }
   end
 
+  def file_exists?(file)
+    GpsFile.exists?(filename: File.basename(file))
   end
 
   def geocode(gpx)
