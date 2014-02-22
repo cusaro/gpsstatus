@@ -10,9 +10,14 @@ class Geocode
   end
 
   def geocode
+
+    geocode_options = {
+        timeout: 10
+    }
+
     begin
-      #TODO configuration for example: timeout
-      location = Geocoder.search([@gpx.points.first.latitude,@gpx.points.first.longitude])[0].data["address_components"]
+
+      location = Geocoder.search([@gpx.points.first.latitude,@gpx.points.first.longitude],geocode_options)[0].data["address_components"]
 
       @city = get_geocoder_param(location,"locality")
       @country = get_geocoder_param(location,"country")
