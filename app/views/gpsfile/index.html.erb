@@ -30,6 +30,7 @@
       <% end %>
 
       <ul class="list-unstyled">
+        <li><%= time_ago_in_words(file.start)%></li>
         <li>Distanz: <%=kilometer(file.length)%></li>
         <li>Dauer: <%=duration(file.duration)%></li>
       </ul>
