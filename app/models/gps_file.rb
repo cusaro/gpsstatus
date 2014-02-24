@@ -3,4 +3,9 @@ class GpsFile < ActiveRecord::Base
   validates_attachment_content_type :image, :content_type => %w(image/jpeg image/jpg image/png)
 
   has_and_belongs_to_many :tags
+
+  scope :tag, -> (tag = false){
+    includes(:tags).where(tags: { id: tag }) if tag
+  }
+
 end

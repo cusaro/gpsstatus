@@ -14,8 +14,8 @@ class Importer
         filename: File.basename(file),
     )
 
-    gpx.tags << Tag.new(name:geocode(gpx_file).city)
-    gpx.tags << Tag.new(name:geocode(gpx_file).country)
+    gpx.tags << Tag.find_or_create_by(name: geocode(gpx_file).city)
+    gpx.tags << Tag.find_or_create_by(name: geocode(gpx_file).country)
   end
 
   def geocode(gpx)

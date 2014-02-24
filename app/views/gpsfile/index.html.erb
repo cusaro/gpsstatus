@@ -1,23 +1,36 @@
+<div class="panel panel-default">
+  <div class="panel-heading">Filter</div>
+  <div class="panel-body">
+    <%=form_tag gpsfile_path, method: "post" do%>
+        <%= collection_check_boxes :post, :tag_id, @tags, :id, :name, checked: @filter do |b|
+          content_tag :div, b.label { b.check_box + b.text  }, class: "checkbox-inline"
+        end %>
+        <%= submit_tag("Filter") %>
+    <% end %>
+  </div>
+</div>
+
+
 <% @files.each do |file|%>
-    <div class="media">
+  <div class="media">
 
-      <%= link_to (image_tag file.image.url(:thumb)), gpsfile_show_path(file), html_options = {:class => 'pull-left thumbnail'}  %>
+    <%= link_to (image_tag file.image.url(:thumb)), gpsfile_show_path(file), html_options = {:class => 'pull-left thumbnail'}  %>
 
-      <div class="media-body">
-        <h4 class="media-heading"><%= link_to file.name, gpsfile_show_path(file) %></h4>
+    <div class="media-body">
+      <h4 class="media-heading"><%= link_to file.name, gpsfile_show_path(file) %></h4>
 
-        <%= tag_label(l file.start, format: :short) if file.start.present? %>
+      <%= tag_label(l file.start, format: :short) if file.start.present? %>
 
-        <% file.tags.each do |tag| %>
-            <%= tag_label(tag.name) %>
-        <% end %>
+      <% file.tags.each do |tag| %>
+          <%= tag_label(tag.name) %>
+      <% end %>
 
-        <ul class="list-unstyled">
-          <li>Distanz: <%=kilometer(file.length)%></li>
-          <li>Dauer: <%=duration(file.duration)%> h</li>
-        </ul>
-      </div>
+      <ul class="list-unstyled">
+        <li>Distanz: <%=kilometer(file.length)%></li>
+        <li>Dauer: <%=duration(file.duration)%> h</li>
+      </ul>
     </div>
+  </div>
 <% end %>
 <%= paginate @files%>
 <%= page_entries_info @files%>
