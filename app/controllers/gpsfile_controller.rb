@@ -1,7 +1,7 @@
 class GpsfileController < ApplicationController
 
   def index
-    @files = GpsFile.all().page(params[:page]).per(2).order(start: :desc);
+    @files = GpsFile.all().page(params[:page]).per(10).order(start: :desc);
   end
 
   def show
