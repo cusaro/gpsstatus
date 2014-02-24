@@ -5,12 +5,13 @@
 
       <div class="media-body">
         <h4 class="media-heading"><%= link_to file.name, gpsfile_show_path(file) %></h4>
-        <% if file.start.present? %>
-            <span class="label label-default"><%=l file.start, format: :short%></span>
+
+        <%= tag_label(l file.start, format: :short) if file.start.present? %>
+
+        <% file.tags.each do |tag| %>
+            <%= tag_label(tag.name) %>
         <% end %>
-        <% if file.city.present? %>
-            <span class="label label-default"><%=file.city %></span>
-        <% end %>
+
         <ul class="list-unstyled">
           <li>Distanz: <%=kilometer(file.length)%></li>
           <li>Dauer: <%=duration(file.duration)%> h</li>

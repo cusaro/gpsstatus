@@ -22,4 +22,8 @@ module GpsfileHelper
   def average(value)
     value.round(2).to_s+' Km/h'
   end
+
+  def tag_label(value)
+    content_tag(:span, value, class: "label label-default")
+  end
 end
