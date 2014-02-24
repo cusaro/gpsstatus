@@ -11,6 +11,17 @@ class GpsfileController < ApplicationController
     @file = GpsFile.find(params[:id])
   end
 
+  def tag_add
+    gpx = GpsFile.find params["id"]
+    @tag = gpx.tag_add(params["tag"])
+  end
+
+  def tag_remove
+    @tag = params["tag"]
+    gpx = GpsFile.find params["id"]
+    gpx.tag_remove(@tag)
+  end
+
   def filter
     if params["post"].present?
       params["post"]["tag_id"]
