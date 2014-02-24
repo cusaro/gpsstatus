@@ -2,9 +2,9 @@ class GpsfileController < ApplicationController
 
   def index
     @filter = filter
-    @tags = Tag.all()
+    @tags = Tag.all().order(:name)
 
-    @files = GpsFile.all().tag(@filter).page(params[:page]).per(10).order(start: :desc);
+    @files = GpsFile.all().tag(@filter).page(params[:page]).per(10).order(start: :desc)
   end
 
   def show

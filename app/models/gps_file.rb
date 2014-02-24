@@ -8,4 +8,15 @@ class GpsFile < ActiveRecord::Base
     includes(:tags).where(tags: { id: tag }) if tag
   }
 
+  def tag_add(value)
+    #TODO maybe this could be done better?
+    tag = Tag.find_or_create_by(name: value)
+    self.tags << tag
+    tag
+  end
+
+  def tag_remove(id)
+    self.tags.delete(Tag.find id)
+  end
+
 end
