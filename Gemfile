@@ -41,6 +41,8 @@ gem 'leaflet-rails'
 
 gem 'rake'
 
+gem 'kaminari'
+
 #avoid Could not find a JavaScript runtime. See https://github.com/sstephenson/execjs for a list of available runtimes
 gem 'execjs'
 
