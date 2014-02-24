@@ -7,10 +7,16 @@
           })
   %>
   <%=map_gpx('/system/gpxfiles/import/'+@file.filename) %>
+  <hr />
+  <div id="tagline">
+    <% @file.tags.each do |tag| %>
+        <%= tag_label(tag) %>
+    <% end %>
 
-  <% @file.tags.each do |tag| %>
-      <%= tag_label(tag.name) %>
-  <% end %>
+    <%= text_field_tag :tag %>
+    <%= submit_tag 'add', id: 'tag_add' %>
+  </div>
+  <hr />
 
   <ul class="list-unstyled">
     <li>Dauer: <%=duration(@file.duration)%></li>

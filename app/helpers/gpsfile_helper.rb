@@ -23,7 +23,7 @@ module GpsfileHelper
     value.round(2).to_s+' Km/h'
   end
 
-  def tag_label(value)
-    content_tag(:span, value, class: "label label-default")
+  def tag_label(tag)
+    content_tag(:span, tag.name, class: "label label-default tag", :data => { :id => tag.id })
   end
 end

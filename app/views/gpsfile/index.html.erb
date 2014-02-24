@@ -19,10 +19,10 @@
     <div class="media-body">
       <h4 class="media-heading"><%= link_to file.name, gpsfile_show_path(file) %></h4>
 
-      <%= tag_label(l file.start, format: :short) if file.start.present? %>
+      <%= content_tag(:span, (l file.start, format: :short), class: "label label-default") if file.start.present? %>
 
       <% file.tags.each do |tag| %>
-          <%= tag_label(tag.name) %>
+          <%= tag_label(tag) %>
       <% end %>
 
       <ul class="list-unstyled">
