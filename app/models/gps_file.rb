@@ -9,10 +9,10 @@ class GpsFile < ActiveRecord::Base
   }
 
   def tag_add(value)
-    #TODO maybe this could be done better?
-    tag = Tag.find_or_create_by(name: value)
-    self.tags << tag
-    tag
+    Tag.find_or_create_by(name: value).tap do |tag|
+      #TODO maybe with self
+      tags << tag
+    end
   end
 
   def tag_remove(id)
