@@ -1,0 +1,15 @@
+<div class="panel panel-default">
+  <div class="panel-heading filter-heading clickable">
+    <h4 class="panel-title">
+      Filter
+    </h4>
+  </div>
+  <div class="panel-body filter collapse">
+    <%=form_tag gpsfile_path, method: "post" do%>
+        <%= collection_check_boxes :post, :tag_id, @tags, :id, :name, checked: @filter do |b|
+          content_tag :div, b.label { b.check_box + b.text  }, class: "checkbox-inline"
+        end %>
+        <%= submit_tag("Filter") %>
+    <% end %>
+  </div>
+</div>
