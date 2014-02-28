@@ -1,5 +1,3 @@
-require 'GPX'
-
 class Importer
 
   def self.import
