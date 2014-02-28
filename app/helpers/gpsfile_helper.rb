@@ -7,9 +7,9 @@ module GpsfileHelper
                   {
                     async: true,
                     marker_options: {
-                    startIconUrl: '/system/images/pin-icon-start.png',
-                    endIconUrl: '/system/images/pin-icon-end.png',
-                    shadowUrl: '/system/images/pin-shadow.png'
+                    startIconUrl: '/assets/pin-icon-start.png',
+                    endIconUrl: '/assets/pin-icon-end.png',
+                    shadowUrl: '/assets/pin-shadow.png'
                     }
 
                   }
