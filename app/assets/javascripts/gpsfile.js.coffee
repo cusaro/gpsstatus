@@ -6,15 +6,17 @@ $(document).ready ->
   $('.filter-heading').click ->
     $('.filter').toggle()
 
-
+  #TODO rewrite this
   $("#tag_add").click ->
-    $.get $(location).attr('href')+"/tag_add/"+$("input#tag").val()+".js", (data) ->
-      data.eval()
-    return
+    $.ajax
+      url: $(this).data('url')
+      type: "PUT"
+      data: {tag: $("#tag").val()}
+      success:  ->
 
   $('.tag[data-id]').click ->
     $.ajax
-      url: $(location).attr('href')+"/tag_remove/"+$(this).data('id')+".js"
+      url: $(this).data('url')
       type: "DELETE"
+      data: {tag: $(this).data('id')}
       success: (data) ->
-        data.eval()

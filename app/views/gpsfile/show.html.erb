@@ -9,12 +9,12 @@
   <%=map_gpx('/system/gpxfiles/import/'+@file.filename) %>
   <hr />
   <div id="tagline">
-    <% @file.tags.each do |tag| %>
-        <%= tag_label(tag) %>
-    <% end %>
+    <% @file.tags.each do |tag|%>
+        <%=content_tag(:span, tag.name, class: "label label-default tag", :data => { url: gpsfile_tag_remove_path, id: tag.id })%>
+    <%end %>
 
     <%= text_field_tag :tag %>
-    <%= submit_tag 'add', id: 'tag_add' %>
+    <%= submit_tag 'add', id: 'tag_add', data: {url: gpsfile_tag_add_path} %>
   </div>
   <hr />
 

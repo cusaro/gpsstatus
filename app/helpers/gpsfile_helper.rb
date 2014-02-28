@@ -24,6 +24,6 @@ module GpsfileHelper
   end
 
   def tag_label(tag)
-    content_tag(:span, tag.name, class: "label label-default tag", :data => { :id => tag.id })
+    content_tag(:span, tag.name, class: "label label-default tag", :data => { :id => tag.id, url: gpsfile_tag_remove_path(id: tag.id) })
   end
 end
