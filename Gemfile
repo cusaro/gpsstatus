@@ -54,6 +54,7 @@ group :development do
   gem 'capistrano-bundler'
   # if you are using RBENV
   gem 'capistrano-rbenv', "~> 2.0"
+  gem "better_errors"
 end
 
 group :development, :test do
