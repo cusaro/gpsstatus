@@ -1,6 +1,11 @@
 class GpsfileController < ApplicationController
 
   def index
+    @this_week = GpsFile.statistics(Time.now.beginning_of_week..Time.now.end_of_week)
+    @this_month = GpsFile.statistics(Time.now.beginning_of_month..Time.now.end_of_month)
+    @this_year = GpsFile.statistics(Time.now.beginning_of_year..Time.now.end_of_year)
+    #@total = GpsFile.addition(GpsFile.all)
+
     @filter = filter
     @tags = Tag.all().order(:name)
 

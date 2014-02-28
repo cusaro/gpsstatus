@@ -11,7 +11,7 @@ describe Importer do
 
 
   describe '.geocode' do
-    it 'for radtour-20100402.gpx' do
+    it 'for radtour-  20100402.gpx' do
       VCR.use_cassette('geocode_for_radtour-20100402.gpx') do
         g = Geocode.new(gpx1)
         expect(g.city).to eq "Leipzig"

@@ -8,6 +8,18 @@ class GpsFile < ActiveRecord::Base
     includes(:tags).where(tags: { id: tag }) if tag
   }
 
+  def self.statistics(time_frame)
+    {
+        distance: addition("length",self.where(:start => time_frame)),
+        duration: addition("duration",self.where(:start => time_frame)),
+    }
+
+  end
+
+  def self.addition(typ,files)
+    files.inject(0) {|sum, number| sum + number.send(typ)}
+  end
+
   def tag_add(value)
     Tag.find_or_create_by(name: value).tap do |tag|
       #TODO maybe with self

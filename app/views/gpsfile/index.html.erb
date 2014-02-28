@@ -1,26 +1,13 @@
 <%= render 'header' %>
 
-<% @files.each do |file|%>
-  <div class="media">
-
-    <%= link_to (image_tag file.image.url(:thumb)), gpsfile_show_path(file), html_options = {:class => 'pull-left thumbnail'}  %>
-
-    <div class="media-body">
-      <h4 class="media-heading"><%= link_to file.name, gpsfile_show_path(file) %></h4>
-
-      <%= content_tag(:span, (l file.start, format: :short), class: "label label-default") if file.start.present? %>
-
-      <% file.tags.each do |tag| %>
-          <%= tag_label(tag) %>
-      <% end %>
-
-      <ul class="list-unstyled">
-        <li><%= time_ago_in_words(file.start)%></li>
-        <li>Distanz: <%=kilometer(file.length)%></li>
-        <li>Dauer: <%=duration(file.duration)%></li>
-      </ul>
-    </div>
+<div class="row">
+  <div class="col-md-6">
+    <%= render 'filelist' %>
   </div>
-<% end %>
+  <div class="col-md-6">
+    <%= render 'statistics' %>
+  </div>
+</div>
+
 <%= paginate @files%>
 <%= page_entries_info @files%>
