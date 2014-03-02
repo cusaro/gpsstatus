@@ -1,11 +1,28 @@
-<%= render 'cuboid', locals: { title: 'This Week', value: kilometer(@this_week[:distance]) } %>
+<div class="row">
+  <div class="col-md-6">
+    <%= render 'cuboid', locals: { title: 'This Week', value: kilometer(@this_week[:distance]) } %>
 
-<%= render 'cuboid', locals: { title: 'This Month', value: kilometer(@this_month[:distance]) } %>
+    <%= render 'cuboid', locals: { title: 'This Month', value: kilometer(@this_month[:distance]) } %>
 
-<%= render 'cuboid', locals: { title: 'This Year', value: kilometer(@this_year[:distance]) } %>
+    <%= render 'cuboid', locals: { title: 'This Year', value: kilometer(@this_year[:distance]) } %>
 
-<%= render 'cuboid', locals: { title: 'This Week', value: duration(@this_week[:duration]) } %>
+    <%= render 'cuboid', locals: { title: 'This Week', value: duration(@this_week[:duration]) } %>
 
-<%= render 'cuboid', locals: { title: 'This Month', value: duration(@this_month[:duration]) } %>
+    <%= render 'cuboid', locals: { title: 'This Month', value: duration(@this_month[:duration]) } %>
 
-<%= render 'cuboid', locals: { title: 'This Year', value: duration(@this_year[:duration]) } %>
+    <%= render 'cuboid', locals: { title: 'This Year', value: duration(@this_year[:duration]) } %>
+  </div>
+  <div class="col-md-6">
+    <%= render 'cuboid', locals: { title: 'Last Week', value: kilometer(@last_week[:distance]) } %>
+
+    <%= render 'cuboid', locals: { title: 'Last Month', value: kilometer(@last_month[:distance]) } %>
+
+    <%= render 'cuboid', locals: { title: 'Last Year', value: kilometer(@last_year[:distance]) } %>
+
+    <%= render 'cuboid', locals: { title: 'Last Week', value: duration(@last_week[:duration]) } %>
+
+    <%= render 'cuboid', locals: { title: 'Last Month', value: duration(@last_month[:duration]) } %>
+
+    <%= render 'cuboid', locals: { title: 'Last Year', value: duration(@last_year[:duration]) } %>
+  </div>
+</div>
