@@ -27,5 +27,10 @@
     <li>Dauer: <%=l @file.created_at, format: :short%></li>
     <li>Dateiname: <%=@file.filename%></li>
   </ul>
-
+  <hr />
+  <div class="checkbox">
+    <label>
+      <%= check_box_tag 'statistic', 'yes', @file.statistic, id:'statistic', data: {url: gpsfile_toggle_statistic_path } %> nicht in Statistik aufnehmen
+    </label>
+  </div>
 </div>

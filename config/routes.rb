@@ -7,6 +7,7 @@ Gpsstore::Application.routes.draw do
 
   put 'gpsfile/:id/tag_add' => 'gpsfile#tag_add', as: 'gpsfile_tag_add'
   delete 'gpsfile/:id/tag_remove' => 'gpsfile#tag_remove', as: 'gpsfile_tag_remove'
+  put 'gpsfile/:id/toggle_statistic' => 'gpsfile#toggle_statistic', as: 'gpsfile_toggle_statistic'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

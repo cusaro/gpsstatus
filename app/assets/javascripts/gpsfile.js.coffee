@@ -20,3 +20,9 @@ $(document).ready ->
       type: "DELETE"
       data: {tag: $(this).data('id')}
       success: (data) ->
+
+  $('#statistic').click ->
+    console.log $(this).data('url')
+    $.ajax
+      url: $(this).data('url')
+      type: "PUT"

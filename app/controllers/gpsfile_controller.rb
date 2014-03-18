@@ -32,6 +32,11 @@ class GpsfileController < ApplicationController
     gpx.tag_remove(@tag)
   end
 
+  def toggle_statistic
+    gpx = GpsFile.find params["id"]
+    gpx.toggle!(:statistic)
+  end
+
   def filter
     if params["post"].present?
       params["post"]["tag_id"]
