@@ -10,8 +10,8 @@ class GpsFile < ActiveRecord::Base
 
   def self.statistics(time_frame)
     {
-        distance: addition("length",self.where(:start => time_frame)),
-        duration: addition("duration",self.where(:start => time_frame)),
+        distance: addition("length",self.where(:start => time_frame).where(:statistic => true)),
+        duration: addition("duration",self.where(:start => time_frame).where(:statistic => true)),
     }
 
   end
