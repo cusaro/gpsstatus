@@ -25,7 +25,7 @@
     <li>Start: <%=l @file.start, format: :short%></li>
     <li>Ende: <%=l @file.end, format: :short%></li>
     <li>Dauer: <%=l @file.created_at, format: :short%></li>
-    <li>Dateiname: <%=@file.filename%></li>
+    <li>Dateiname: <%= link_to @file.filename, '/system/gpxfiles/import/'+@file.filename%></li>
   </ul>
   <hr />
   <div class="checkbox">
