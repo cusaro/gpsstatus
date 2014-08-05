@@ -1,18 +1,7 @@
 class Importer
 
-  def self.import
-    file.each do |file|
-      f = new(file)
-      f.save unless f.file_exists?
-    end
-  end
-
   def initialize(file)
     @file = file
-  end
-
-  def self.file
-    Dir[IMPORT_DIR+"*.gpx"].reject{ |f| f[%r{.*_[0-9][0-9][0-9].gpx}]  }
   end
 
   def file_exists?
