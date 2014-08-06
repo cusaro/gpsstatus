@@ -8,7 +8,7 @@ Thread.new do
     path = 'public/system/gpxfiles/import/'
   end
 
-  listener = Listen.to(path) do |modified, added, removed|
+  listener = Listen.to(path,wait_for_delay: 30 ) do |modified, added, removed|
     unless added.empty?
       added.each do |file|
         Importer.new(file).save
