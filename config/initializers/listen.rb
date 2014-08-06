@@ -1,7 +1,14 @@
 require 'gpx'
 
 Thread.new do
-  listener = Listen.to('public/system/gpxfiles/import/') do |modified, added, removed|
+
+  if Rails.env.production?
+    path = '/var/webapps/gpsstats/shared/public/system/gpxfiles/import/'
+  else
+    path = 'public/system/gpxfiles/import/'
+  end
+
+  listener = Listen.to(path) do |modified, added, removed|
     unless added.empty?
       added.each do |file|
         Importer.new(file).save
