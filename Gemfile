@@ -45,6 +45,8 @@ gem 'kaminari'
 
 gem 'listen', '~> 2.0'
 
+gem 'devise'
+
 #avoid Could not find a JavaScript runtime. See https://github.com/sstephenson/execjs for a list of available runtimes
 gem 'execjs'
 
