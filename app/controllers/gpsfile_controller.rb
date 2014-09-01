@@ -1,5 +1,7 @@
 class GpsfileController < ApplicationController
 
+  before_action :authenticate_user!, except: [:index,:show]
+
   def index
     @this_week = GpsFile.statistics(Time.now.beginning_of_week..Time.now.end_of_week)
     @this_month = GpsFile.statistics(Time.now.beginning_of_month..Time.now.end_of_month)
