@@ -7,17 +7,19 @@
           })
   %>
   <%=map_gpx('/system/gpxfiles/import/'+@file.filename) %>
-  <hr />
-  <div id="tagline">
-    <% @file.tags.each do |tag|%>
-        <%=content_tag(:span, tag.name, class: "label label-default tag", :data => { url: gpsfile_tag_remove_path, id: tag.id })%>
-    <%end %>
+  <% if user_signed_in? %>
+    <hr />
+    <div id="tagline">
+      <% @file.tags.each do |tag|%>
+          <%=content_tag(:span, tag.name, class: "label label-default tag", :data => { url: gpsfile_tag_remove_path, id: tag.id })%>
+      <%end %>
 
-    <%= text_field_tag :tag %>
-    <%= submit_tag 'add', id: 'tag_add', data: {url: gpsfile_tag_add_path} %>
-  </div>
-  <hr />
+      <%= text_field_tag :tag %>
+      <%= submit_tag 'add', id: 'tag_add', data: {url: gpsfile_tag_add_path} %>
+    </div>
+  <%end %>
 
+  <hr />
   <ul class="list-unstyled">
     <li>Dauer: <%=duration(@file.duration)%></li>
     <li>Distanz: <%=kilometer(@file.length)%></li>
@@ -25,12 +27,15 @@
     <li>Start: <%=l @file.start, format: :short%></li>
     <li>Ende: <%=l @file.end, format: :short%></li>
     <li>Dauer: <%=l @file.created_at, format: :short%></li>
-    <li>Dateiname: <%= link_to @file.filename, '/system/gpxfiles/import/'+@file.filename%></li>
+    <% if user_signed_in? %><li>Dateiname: <%= link_to @file.filename, '/system/gpxfiles/import/'+@file.filename%></li><%end %>
   </ul>
-  <hr />
-  <div class="checkbox">
+
+  <% if user_signed_in? %>
+    <hr />
+    <div class="checkbox">
     <label>
       <%= check_box_tag 'statistic', 'yes', @file.statistic, id:'statistic', data: {url: gpsfile_toggle_statistic_path } %> Statistik
     </label>
   </div>
+  <% end %>
 </div>

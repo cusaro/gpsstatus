@@ -1,5 +1,6 @@
 Gpsstore::Application.routes.draw do
 
+  devise_for :users
   root 'gpsfile#index'
 
   post 'gpsfile' => 'gpsfile#index', as: 'gpsfile'
